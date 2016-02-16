@@ -2,7 +2,7 @@
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/peppy.png|alt=Peppy]]
 </p>
 ### What is Peppy?
-Peppy is the name of the application which was written in **P**ython language using **P**ygame library for **P**laying audio files and streams. It provides Graphical User Interface for audio players running in a headless mode. Pygame library provides audio playback functionality but its capabilities are pretty limited that's why Peppy doesn't play audio files/streams itself. Instead Peppy relies on functionality of existing popular audio players. Currently Peppy supports only 'mpd' audio player but it was designed in such a way that adding new player(s) should be pretty easy task.
+Peppy is the name of the application which was written in **P**ython language using **P**ygame library for **P**laying audio files and streams. It provides Graphical User Interface for audio players running in a headless mode. Pygame library provides audio playback functionality but its capabilities are pretty limited that's why Peppy doesn't play audio files/streams itself. Instead Peppy relies on functionality of existing popular audio players. Currently Peppy supports only 'mpd' audio player but it was designed in such a way that adding new player(s) should be pretty easy.
 
 Currently Peppy has only Internet Radio functionality. In the future releases support for playing audio files and streams will be implemented.
 
