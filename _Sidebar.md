@@ -21,7 +21,7 @@
     * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Software Tools)
     * [Troubleshooting](https://github.com/project-owner/Peppy.doc/Software Troubleshooting)
 * GUI
-    * [Splash Screen/About](https://github.com/project-owner/Peppy.doc/wiki/Splash)
+    * [Splash Screen/About](https://github.com/project-owner/Peppy.doc/wiki/Splash Screen)
     * [Station Screen](https://github.com/project-owner/Peppy.doc/wiki/Stations Screen)
     * [Home Screen](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
     * [Genre Screen](https://github.com/project-owner/Peppy.doc/wiki/Genre Screen)
