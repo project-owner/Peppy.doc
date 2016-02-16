@@ -18,7 +18,7 @@
     * [Configuration](https://github.com/project-owner/Peppy.doc/wiki/Configuration)
     * [Localization](https://github.com/project-owner/Peppy.doc/wiki/Localization)
     * [Versioning](https://github.com/project-owner/Peppy.doc/wiki/Versioning)
-    * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Tools)
+    * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Software Tools)
     * [Troubleshooting](https://github.com/project-owner/Peppy.doc/Troubleshooting)
 * GUI
     * [Splash Screen/About](https://github.com/project-owner/Peppy.doc/wiki/Splash)
