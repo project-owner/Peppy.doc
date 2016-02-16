@@ -13,14 +13,14 @@
     * [Networking](https://github.com/project-owner/Peppy.doc/wiki/Hardware#net)
     * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Hardware#tools)
     * [Troubleshooting](https://github.com/project-owner/Peppy.doc/wiki/Hardware#tools)
-* [Software](https://github.com/project-owner/Peppy.doc/wiki/Software)
+* Software
     * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
     * [Configuration](https://github.com/project-owner/Peppy.doc/wiki/Configuration)
     * [Localization](https://github.com/project-owner/Peppy.doc/wiki/Localization)
     * [Versioning](https://github.com/project-owner/Peppy.doc/wiki/Versioning)
     * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Tools)
     * [Troubleshooting](https://github.com/project-owner/Peppy.doc/Troubleshooting)
-* [GUI](https://github.com/project-owner/Peppy.doc/wiki/gui)
+* GUI
     * [Splash Screen/About](https://github.com/project-owner/Peppy.doc/wiki/Splash)
     * [Station Screen](https://github.com/project-owner/Peppy.doc/wiki/Stations Screen)
     * [Home Screen](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
