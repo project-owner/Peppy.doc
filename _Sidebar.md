@@ -35,7 +35,7 @@
     * [Remote Control](https://github.com/project-owner/Peppy.doc/wiki/Control#remote)
     * [Rotary Encoders](https://github.com/project-owner/Peppy.doc/wiki/Control#mouse)
     * [Web Browser](https://github.com/project-owner/Peppy.doc/wiki/Control#web)
-* [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Gui#home)
+* [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware)
     * [Design](https://github.com/project-owner/Peppy.doc/wiki/Woodware#design)
     * [Implementation](https://github.com/project-owner/Peppy.doc/wiki/Woodware#implementation)
     * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Woodware#tools)
