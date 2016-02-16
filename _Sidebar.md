@@ -18,7 +18,7 @@
     * [Localization](https://github.com/project-owner/Peppy.doc/wiki/local)
     * [Versioning](https://github.com/project-owner/Peppy.doc/wiki/version)
 * [GUI](https://github.com/project-owner/Peppy.doc/wiki/gui)
-    * [Splash/About](https://github.com/project-owner/Peppy.doc/wiki/Gui#splash)
+    * [Splash Screen/About](https://github.com/project-owner/Peppy.doc/wiki/Gui#splash)
     * [Station Screen](https://github.com/project-owner/Peppy.doc/wiki/Gui#stations)
     * [Home Screen](https://github.com/project-owner/Peppy.doc/wiki/Gui#home)
     * [Genre Screen](https://github.com/project-owner/Peppy.doc/wiki/Gui#home)
