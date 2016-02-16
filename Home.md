@@ -23,6 +23,6 @@ The target hardware platform for Peppy player is Rapberry Pi micro-computer. Som
 ### Screenshots
 Here are several screenshots of the Peppy player.
 
-This project was developed exclusively for my personal usage. But I had several request to share the code for this player. Hence this project on GitHub. I hope that it will be useful for another developers from the learning point of view. It can save them a lot of googling time and hair ;)
+This project was developed exclusively for my personal usage. Then I received several request to share the code for this player. Hence this project on GitHub. I hope that this information will be useful for another developers as well. This kind of tutorial could save me a lot of time and hair if I would have it when I started Peppy project ;)
 
 Have fun!
