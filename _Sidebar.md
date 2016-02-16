@@ -19,7 +19,7 @@
     * [Localization](https://github.com/project-owner/Peppy.doc/wiki/Localization)
     * [Versioning](https://github.com/project-owner/Peppy.doc/wiki/Versioning)
     * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Software Tools)
-    * [Troubleshooting](https://github.com/project-owner/Peppy.doc/Troubleshooting)
+    * [Troubleshooting](https://github.com/project-owner/Peppy.doc/Software Troubleshooting)
 * GUI
     * [Splash Screen/About](https://github.com/project-owner/Peppy.doc/wiki/Splash)
     * [Station Screen](https://github.com/project-owner/Peppy.doc/wiki/Stations Screen)
