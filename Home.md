@@ -17,8 +17,11 @@ Peppy has its own component/event system developed from scratch using Pygame lib
 
 The screen resolution 480x320 pixels was the target resolution for Peppy player. Although it can scale up and down. The UI is usable in lower resolutions (e.g. 320x200) and higher resolutions (e.g. 800x480) as well. The application doesn't resize UI dynamically. User has to define required resolution in the configuration file.
 
-The target hardware platform for Peppy player is Rapberry Pi micro-computer. Some features of the Peppy player are available only on this platform (e.g. Rotary Encoders). As hardware is pretty important part of this project there is a separate section in this Wiki about hardware.
+The target hardware platform for Peppy player is Rapberry Pi micro-computer. Some features of the Peppy player are available only on this platform (e.g. Rotary Encoders). The hardware is pretty important part of this project therefore there is a separate chapter in this Wiki about hardware. Another important part of this project is a wooden case which also deserves a separate chapter. The name Peppy can be applied to all three ingredients: Hardware, Software and Woodware.
 
-This project was developed exclusively for my personal usage. But I had several request to share the code for this player. Hence this project on GitHub. I hope that it will be useful for another developers as well. It can save you a lot of googling time and hair ;)
+### Screenshots
+Here are several screenshots of the Peppy player.
+
+This project was developed exclusively for my personal usage. But I had several request to share the code for this player. Hence this project on GitHub. I hope that it will be useful for another developers from the learning point of view. It can save them a lot of googling time and hair ;)
 
 Have fun!
