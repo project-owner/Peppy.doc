@@ -1,0 +1,6 @@
+* [Raspbian](https://github.com/project-owner/Peppy.doc/wiki/Installation#raspbian)
+* [Python](https://github.com/project-owner/Peppy.doc/wiki/Installation#python)
+* [Pygame](https://github.com/project-owner/Peppy.doc/wiki/Installation#pygame)
+* [Lirc/Pylirc](https://github.com/project-owner/Peppy.doc/wiki/Installation#lirc)
+* [mpd/mpc](https://github.com/project-owner/Peppy.doc/wiki/Installation#mpd)
+* [Peppy](https://github.com/project-owner/Peppy.doc/wiki/Installation#peppy)
