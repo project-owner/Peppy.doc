@@ -1,0 +1,6 @@
+* [Raspbian](https://github.com/project-owner/Peppy.doc/wiki/Configuration#raspbian)
+* [HiFiBerry AMP+](https://github.com/project-owner/Peppy.doc/wiki/Configuration#amp)
+* [mpd](https://github.com/project-owner/Peppy.doc/wiki/Configuration#mpd)
+* [Adafruit TFT](https://github.com/project-owner/Peppy.doc/wiki/Configuration#tft)
+* [lirc](https://github.com/project-owner/Peppy.doc/wiki/Configuration#lirc)
+* [Peppy](https://github.com/project-owner/Peppy.doc/wiki/Configuration#peppy)
