@@ -1,1 +1,3 @@
-Welcome to the Peppy.doc wiki!
+<p align="center">
+  Welcome!
+</p>
