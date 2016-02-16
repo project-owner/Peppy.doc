@@ -12,6 +12,7 @@ Peppy has its own component/event system developed from scratch using Pygame lib
 * Mouse
 * Keyboard
 * Touch screen
+* Infrared Remote Control
 * Rotary Encoders
 * Web Browser
 
