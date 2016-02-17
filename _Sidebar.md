@@ -1,4 +1,7 @@
 # Contents
+* [Home](https://github.com/project-owner/Peppy.doc/wiki/Home)
+    * [What is Peppy?](https://github.com/project-owner/Peppy.doc/wiki/Home#what)
+    * [Screenshots](https://github.com/project-owner/Peppy.doc/wiki/Home#screenshots)
 * [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware)
     * [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Hardware#rpi)
     * [HiFiBerry AMP+](https://github.com/project-owner/Peppy.doc/wiki/Hardware#amp)
