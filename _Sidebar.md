@@ -9,15 +9,11 @@
     * [Rotary Encoders](https://github.com/project-owner/Peppy.doc/wiki/Hardware#re)
     * [Cabling](https://github.com/project-owner/Peppy.doc/wiki/Hardware#cabling)
     * [Networking](https://github.com/project-owner/Peppy.doc/wiki/Hardware#net)
-    * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Hardware#tools)
-    * [Troubleshooting](https://github.com/project-owner/Peppy.doc/wiki/Hardware#tools)
 * Software
     * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
     * [Configuration](https://github.com/project-owner/Peppy.doc/wiki/Configuration)
     * [Localization](https://github.com/project-owner/Peppy.doc/wiki/Localization)
     * [Versioning](https://github.com/project-owner/Peppy.doc/wiki/Versioning)
-    * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Software Tools)
-    * [Troubleshooting](https://github.com/project-owner/Peppy.doc/Software Troubleshooting)
 * GUI
     * [Splash Screen/About](https://github.com/project-owner/Peppy.doc/wiki/Splash Screen)
     * [Station Screen](https://github.com/project-owner/Peppy.doc/wiki/Station Screen)
@@ -36,4 +32,5 @@
 * [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware)
     * [Design](https://github.com/project-owner/Peppy.doc/wiki/Woodware#design)
     * [Implementation](https://github.com/project-owner/Peppy.doc/wiki/Woodware#implementation)
-    * [Tools](https://github.com/project-owner/Peppy.doc/wiki/Woodware#tools)
+* [Tools](https://github.com/project-owner/Peppy.doc/wiki/Tools)
+* [Troubleshooting](https://github.com/project-owner/Peppy.doc/wiki/Troubleshooting)
