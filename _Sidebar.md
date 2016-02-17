@@ -3,6 +3,7 @@
     * [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Hardware#rpi)
     * [HiFiBerry AMP+](https://github.com/project-owner/Peppy.doc/wiki/Hardware#amp)
     * [Adafruit PiTFT](https://github.com/project-owner/Peppy.doc/wiki/Hardware#tft)
+    * [Speakers](https://github.com/project-owner/Peppy.doc/wiki/Hardware#speakers)
     * [Power Supply](https://github.com/project-owner/Peppy.doc/wiki/Hardware#ps)
     * [IR Sensor](https://github.com/project-owner/Peppy.doc/wiki/Hardware#ir)
     * [Rotary Encoders](https://github.com/project-owner/Peppy.doc/wiki/Hardware#re)
