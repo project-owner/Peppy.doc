@@ -22,6 +22,10 @@ The target hardware platform for Peppy player is Rapberry Pi micro-computer. Som
 
 ### Screenshots
 Here are several screenshots of the Peppy player.
+Internet Radio Station screen:
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/scr-3.png|alt=Stations]]
+</p>
 
 This project was developed exclusively for my personal usage. Then I received several requests to share the code for this player. Hence the project moved to GitHub. I hope that the information presented here will be useful for another developers as well. At least such tutorial could save me a lot of time and hair if I would have it when I started Peppy project ;)
 
