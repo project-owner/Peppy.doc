@@ -28,7 +28,13 @@ Here are several screenshots of the Peppy player in different languages and reso
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-2.png|alt=Example1]]
 </p>
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-3.png|alt=Example1]]
+</p>
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-4.png|alt=Example1]]
+</p>
 
-This project was developed exclusively for my personal usage. Then I received several requests to share the code for this player. Hence the project moved to GitHub. I hope that the information presented here will be useful for another developers as well. At least such tutorial could save me a lot of time and hair if I would have it when I started Peppy project ;)
+I hope that the information presented here will be useful for DIY kind of developers. At least such tutorial could save me a lot of time and hair if I would have it when I started this project ;)
 
 Have fun!
