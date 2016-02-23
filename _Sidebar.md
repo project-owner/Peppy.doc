@@ -22,6 +22,7 @@
     * [Station Screen](https://github.com/project-owner/Peppy.doc/wiki/Station Screen)
     * [Home Screen](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
     * [Genre Screen](https://github.com/project-owner/Peppy.doc/wiki/Genre Screen)
+    * [Language Screen](https://github.com/project-owner/Peppy.doc/wiki/Language Screen)
     * [Web UI](https://github.com/project-owner/Peppy.doc/wiki/Web UI)
     * [Screensavers](https://github.com/project-owner/Peppy.doc/wiki/Screensavers)
     * [Localization](https://github.com/project-owner/Peppy.doc/wiki/Localization)
