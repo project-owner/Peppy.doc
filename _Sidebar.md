@@ -15,6 +15,7 @@
     * [Cabling](https://github.com/project-owner/Peppy.doc/wiki/Cabling)
     * [Networking](https://github.com/project-owner/Peppy.doc/wiki/Networking)
     * [Hardware Tools](https://github.com/project-owner/Peppy.doc/wiki/Hardware Tools)
+    * [Assembling](https://github.com/project-owner/Peppy.doc/wiki/Assembling)
 * [Software](https://github.com/project-owner/Peppy.doc/wiki/Software)
     * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
     * [Configuration](https://github.com/project-owner/Peppy.doc/wiki/Configuration)
