@@ -10,3 +10,6 @@
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/case-5.png|alt=case-5]]
 </p>
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/case-6.png|alt=case-6]]
+</p>
