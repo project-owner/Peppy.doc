@@ -32,6 +32,6 @@
     * [Software Tools](https://github.com/project-owner/Peppy.doc/wiki/Software Tools)
 * [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware)
     * [Design](https://github.com/project-owner/Peppy.doc/wiki/Design)
-    * [Woodware Tools](https://github.com/project-owner/Peppy.doc/wiki/Woodware Tools)
+    * [Tools & Materials](https://github.com/project-owner/Peppy.doc/wiki/Tools & Materials)
     * [Making](https://github.com/project-owner/Peppy.doc/wiki/Making)
 * [Troubleshooting](https://github.com/project-owner/Peppy.doc/wiki/Troubleshooting)
