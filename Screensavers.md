@@ -1,4 +1,7 @@
 <p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/screensaver.png|alt=screensaver]]
+</p>
+<p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/saver-1.png|alt=saver-1]]
 </p>
 <p align="center">
