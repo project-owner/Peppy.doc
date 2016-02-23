@@ -21,10 +21,12 @@ The screen resolution 480x320 pixels was the target resolution for Peppy player.
 The target hardware platform for Peppy player is Rapberry Pi micro-computer. Some features of the Peppy player are available only on this platform (e.g. Rotary Encoders). The hardware is pretty important part of this project therefore there is a separate chapter in this Wiki about hardware. The wooden case also deserves a separate chapter. The name Peppy can be applied to all three ingredients: Hardware, Software and Woodware.
 
 ### Screenshots
-Here are several screenshots of the Peppy player.
-Internet Radio Station screen:
+Here are several screenshots of the Peppy player in different languages and resolutions.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/scr-3.png|alt=Stations]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-1.png|alt=Example1]]
+</p>
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-2.png|alt=Example1]]
 </p>
 
 This project was developed exclusively for my personal usage. Then I received several requests to share the code for this player. Hence the project moved to GitHub. I hope that the information presented here will be useful for another developers as well. At least such tutorial could save me a lot of time and hair if I would have it when I started Peppy project ;)
