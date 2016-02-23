@@ -25,6 +25,7 @@
     * [Language Screen](https://github.com/project-owner/Peppy.doc/wiki/Language Screen)
     * [Web UI](https://github.com/project-owner/Peppy.doc/wiki/Web UI)
     * [Screensavers](https://github.com/project-owner/Peppy.doc/wiki/Screensavers)
+    * [Resolution](https://github.com/project-owner/Peppy.doc/wiki/Resolution)
     * [Localization](https://github.com/project-owner/Peppy.doc/wiki/Localization)
     * [Versioning](https://github.com/project-owner/Peppy.doc/wiki/Versioning)
     * [Icons](https://github.com/project-owner/Peppy.doc/wiki/Icons)
