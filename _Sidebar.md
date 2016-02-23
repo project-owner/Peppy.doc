@@ -13,6 +13,7 @@
     * [Other Control Devices](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices)
     * [Cabling](https://github.com/project-owner/Peppy.doc/wiki/Cabling)
     * [Networking](https://github.com/project-owner/Peppy.doc/wiki/Networking)
+    * [Hardware Tools](https://github.com/project-owner/Peppy.doc/wiki/Hardware Tools)
 * Software
     * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
     * [Configuration](https://github.com/project-owner/Peppy.doc/wiki/Configuration)
@@ -25,8 +26,9 @@
     * [Localization](https://github.com/project-owner/Peppy.doc/wiki/Localization)
     * [Versioning](https://github.com/project-owner/Peppy.doc/wiki/Versioning)
     * [Icons](https://github.com/project-owner/Peppy.doc/wiki/Icons)
+    * [Software Tools](https://github.com/project-owner/Peppy.doc/wiki/Software Tools)
 * [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware)
     * [Design](https://github.com/project-owner/Peppy.doc/wiki/Design)
+    * [Woodware Tools](https://github.com/project-owner/Peppy.doc/wiki/Woodware Tools)
     * [Making](https://github.com/project-owner/Peppy.doc/wiki/Making)
-* [Tools](https://github.com/project-owner/Peppy.doc/wiki/Tools)
 * [Troubleshooting](https://github.com/project-owner/Peppy.doc/wiki/Troubleshooting)
