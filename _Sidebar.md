@@ -7,6 +7,7 @@
     * [HiFiBerry AMP+](https://github.com/project-owner/Peppy.doc/wiki/HiFiBerry AMP+)
     * [Adafruit PiTFT](https://github.com/project-owner/Peppy.doc/wiki/Adafruit PiTFT)
     * [Speakers](https://github.com/project-owner/Peppy.doc/wiki/Speakers)
+    * [Passive Radiators](https://github.com/project-owner/Peppy.doc/wiki/Passive Radiators)
     * [Power Supply](https://github.com/project-owner/Peppy.doc/wiki/Power Supply)
     * [Infrared Sensor](https://github.com/project-owner/Peppy.doc/wiki/Infrared Sensor)
     * [Rotary Encoders](https://github.com/project-owner/Peppy.doc/wiki/Rotary Encoders)
