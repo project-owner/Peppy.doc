@@ -4,7 +4,7 @@ The following image shows all hardware ingredients which I used for the Peppy pr
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/hardware.png|alt=Hardware]]
 </p>
 
-1. Power Supply. This is very important component in any project. Under-powering your system can cause many intermittent problems. Therefore I recommend to use good power supply which can provide more energy than your system requires. Over-powering doesn't hurt as your system will take only energy which it needs.
+1. [Power Supply](https://github.com/project-owner/Peppy.doc/wiki/Power Supply). This is very important component in any project. Under-powering your system can cause many intermittent problems. Therefore I recommend to use good power supply which can provide more energy than your system requires. Over-powering doesn't hurt as your system will take only energy which it needs.
 
 2. Touch-Screen. This is the main controlling and navigation tool in Peppy. The software can work with screen of any size/resolution. But I recommend to use the screen of size 3.5" and resolution 480*320 minimum. I've tried 2.8" screen and found it a bit small at least for my fingers. There is no limit on higher end just make sure that it will either fit into your existing enclosure or build new one accordingly.
 
@@ -20,4 +20,4 @@ The following image shows all hardware ingredients which I used for the Peppy pr
 
 8. Speakers. Amplifier board provides 25 W output. Therefore your speakers should have wattage close to this number. The Sony speakers used for Peppy provide 30 W. Another factor which you have to consider while choosing speakers for your system is the size of the case/enclosure where you are going to install the speakers.
 
-9. Passive Radiators. There are several ways how you can handle the back side of your speaker system. Among others: do nothing and keep it just open, use sound port and use passive radiators. I used the latter method as the former ones either look not so attractive (though probably provide better acoustics) or tend to collect dust and insects ;)
+9. Passive Radiators. There are several ways how you can handle the back side of your speaker system. Among others: do nothing and keep it open, use sound port or use passive radiators. I used the latter method as the former ones either look not so attractive (though probably provide better acoustics) or tend to collect dust and insects ;)
