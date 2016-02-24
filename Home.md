@@ -5,11 +5,18 @@
 **Peppy** is the name of the audio player which contains three ingredients: Hardware, Software and Woodware. Why Peppy? This is the first word which came to my mind when I tried to find out any word which would contain three **P** characters for **P**ython **P**ygame **P**layer. That reflects the fact that the software component was written in Python language using Pygame library.
 
 Here are the key features of the Hardware component:
-* It is based on popular single-board computer Raspberry Pi 2. This is the "heart" of the hardware component.
-* For high quality audio it's using integrated DAC-Amplifier module HiFiBerry Amp+. This is the "voice".
+* It is based on popular single-board computer Raspberry Pi 2. This is the "heart".
+* High quality audio achieved by using integrated DAC-Amplifier module HiFiBerry Amp+ and 30 W Sony speakers. This is the "voice".
 * There are six "senses" which can be used to control the hardware:
     * Mouse
     * Keyboard
+    * Touch-Screen
+    * Infrared Remote Control
+    * Rotary Encoders
+    * Any computer in a local network or mobile device with Web Browser
+
+Here are the key features of the Software component which represents the "Brain":
+
 
 was written in **P**ython language using **P**ygame library for **P**laying audio files and streams. It provides Graphical User Interface for audio players running in a headless mode. Pygame library provides audio playback functionality but its capabilities are pretty limited that's why Peppy doesn't play audio files/streams itself. Instead Peppy relies on functionality of existing popular audio players. Currently Peppy supports only 'mpd' audio player but it was designed in such a way that adding new player(s) should be pretty easy.
 
