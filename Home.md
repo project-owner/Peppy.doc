@@ -20,8 +20,8 @@ Here are the key features of the Software component which represents the "brain"
 * Peppy provides Graphical User Interface for audio players running in a headless mode. Currently Peppy supports only 'Mpd' audio player but it was designed in such a way that integrating with new player (e.g. Mplayer) should be pretty simple task.
 * Embedded Web Server allows to control audio playback from any Web Browser. It was tested with Firefox, IE, Chrome and Safari. The GUI was written in such a way that it has the same look and feel on Touch-Screen and in Web Browser.
 * The default screen resolution is 480*320. This is the resolution of the TFT used for this project. Though UI is dynamic and can scale to any screen resolution.
-* By default Peppy has radio profiles for English, French, German and Russian languages. Users can easily add their own stations to playlists.
 * Currently Peppy has only Internet Radio functionality. In the future releases support for playing audio files and streams will be implemented.
+* By default Peppy has radio profiles for English, French, German and Russian languages. Users can easily add their own stations to playlists.
 
 And finally the key features of the Woodware component:
 * Original custom design.
