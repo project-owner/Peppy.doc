@@ -48,4 +48,4 @@ I hope that the information presented here will be useful for DIY kind of develo
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/photo.jpg|alt=photo]]
 </p>
-Enjoy and have fun!
+Enjoy!
