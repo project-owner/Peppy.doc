@@ -25,7 +25,7 @@ Here are the key features of the Software component which represents the "brain"
 
 And finally the key features of the Woodware component:
 * Original custom design.
-* Made mostly of wood (Cherry and Walnut) with acrylic front and back panels.
+* Made of wood (Cherry and Walnut).
 * Natural finish - the variation of French Polish.
 
 ### Screenshots
