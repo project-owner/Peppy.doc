@@ -45,4 +45,4 @@ To give you the idea how Peppy GUI looks like here are several screenshots of th
 
 I hope that the information presented here will be useful for DIY kind of developers. At least such tutorial could save me a lot of time and hair if I would have it when I started this project ;)
 
-Have fun!
+Enjoy and have fun!
