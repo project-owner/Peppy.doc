@@ -7,7 +7,7 @@
 Here are the key features of the Hardware component:
 * It is based on popular single-board computer Raspberry Pi 2. This is the "heart".
 * High quality audio achieved by using integrated DAC-Amplifier module HiFiBerry Amp+ and 30 W Sony speakers. This is the "voice".
-* There are six "senses" which can be used to control the hardware:
+* The Hardware can use six "senses" to control its functionality:
     * Mouse
     * Keyboard
     * Touch-Screen
@@ -15,26 +15,15 @@ Here are the key features of the Hardware component:
     * Rotary Encoders
     * Any computer in a local network or mobile device with Web Browser
 
-Here are the key features of the Software component which represents the "Brain":
+Here are the key features of the Software component which represents the "brain":
+* This is application written in Python. The cross-platform nature of Python allows to run Peppy on different platforms. It works fine on Windows and Linux.
+* Peppy provides Graphical User Interface for audio players running in a headless mode. Currently Peppy supports only 'Mpd' audio player but it was designed in such a way that integrating new player (e.g. Mplayer) should be pretty simple task.
+* Embedded Web Server allows to control audio playback from any Web Browser. It was tested with Firefox, IE, Chrome and Safari. The GUI was written in such a way that it has the same look and feel on Touch-Screen and in Web Browser.
+* The default screen resolution is 480*320. Though UI is dynamic and can scale to any screen resolution.
+* By default Peppy has radio profiles for English, French, German and Russian languages. Users can easily add their own stations to playlists.
+* Currently Peppy has only Internet Radio functionality. In the future releases support for playing audio files and streams will be implemented.
 
 
-was written in **P**ython language using **P**ygame library for **P**laying audio files and streams. It provides Graphical User Interface for audio players running in a headless mode. Pygame library provides audio playback functionality but its capabilities are pretty limited that's why Peppy doesn't play audio files/streams itself. Instead Peppy relies on functionality of existing popular audio players. Currently Peppy supports only 'mpd' audio player but it was designed in such a way that adding new player(s) should be pretty easy.
-
-Currently Peppy has only Internet Radio functionality. In the future releases support for playing audio files and streams will be implemented.
-
-As Peppy was written in Python it is a cross-platform application. It can run on any platform which supports Python. So far it was tested on Windows and Linux platforms. The availability of Pygame library on a platform is another criteria for running Peppy on that platform. And finally audio player supported by Peppy should be available on that platform as well.
-
-Peppy has its own component/event system developed from scratch using Pygame library. It doesn't use any third-party widget library. Peppy player can be controlled by:
-* Mouse
-* Keyboard
-* Touch screen
-* Infrared Remote Control
-* Rotary Encoders
-* Web Browser
-
-The screen resolution 480x320 pixels was the target resolution for Peppy player. Although it can scale up and down. The UI is usable in lower resolutions (e.g. 320x200) and higher resolutions (e.g. 800x480) as well.
-
-The target hardware platform for Peppy player is Rapberry Pi single-board computer. Some features of the Peppy player are available only on this platform (e.g. Rotary Encoders). The hardware is pretty important part of this project therefore there is a separate chapter in this document about hardware. The wooden case also deserves a separate chapter. Therefore the name Peppy could be applied to all three ingredients: Hardware, Software and Woodware.
 
 ### Screenshots
 To give you the idea how Peppy GUI looks like here are several screenshots of the Peppy player in different languages.
