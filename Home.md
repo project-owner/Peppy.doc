@@ -29,20 +29,21 @@ And finally the key features of the Woodware component:
 * Natural finish - the variation of French Polish.
 
 ### Screenshots
-To give you the idea how Peppy GUI looks like here are several screenshots of the Peppy player in different languages.
+To give you the idea how Peppy GUI looks like here are several screenshots of the Peppy player.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-1.png|alt=Example1]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-1.png|alt=ex-1]]
 </p>
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-2.png|alt=Example1]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-2.png|alt=ex-2]]
 </p>
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-3.png|alt=Example1]]
-</p>
-<p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-4.png|alt=Example1]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-4.png|alt=ex-4]]
 </p>
 
 I hope that the information presented here will be useful for DIY kind of developers. At least such tutorial could save me a lot of time and hair if I would have it when I started this project ;)
 
 Enjoy and have fun!
+
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/photo.jpg|alt=photo]]
+</p>
