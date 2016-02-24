@@ -6,8 +6,8 @@
 
 Here are the key features of the Hardware component:
 * It is based on popular single-board computer Raspberry Pi 2. This is the "heart".
-* High quality audio achieved by using integrated DAC-Amplifier module HiFiBerry Amp+ and 30 W Sony speakers. This is the "voice".
-* The Hardware can use six "senses" to control its functionality:
+* High quality audio achieved by using integrated DAC-Amplifier module HiFiBerry Amp+ and Sony speakers. This is the "voice".
+* The Hardware have six "senses" to control its functionality:
     * Mouse
     * Keyboard
     * Touch-Screen
@@ -17,13 +17,16 @@ Here are the key features of the Hardware component:
 
 Here are the key features of the Software component which represents the "brain":
 * This is application written in Python. The cross-platform nature of Python allows to run Peppy on different platforms. It works fine on Windows and Linux.
-* Peppy provides Graphical User Interface for audio players running in a headless mode. Currently Peppy supports only 'Mpd' audio player but it was designed in such a way that integrating new player (e.g. Mplayer) should be pretty simple task.
+* Peppy provides Graphical User Interface for audio players running in a headless mode. Currently Peppy supports only 'Mpd' audio player but it was designed in such a way that integrating with new player (e.g. Mplayer) should be pretty simple task.
 * Embedded Web Server allows to control audio playback from any Web Browser. It was tested with Firefox, IE, Chrome and Safari. The GUI was written in such a way that it has the same look and feel on Touch-Screen and in Web Browser.
-* The default screen resolution is 480*320. Though UI is dynamic and can scale to any screen resolution.
+* The default screen resolution is 480*320. This is the resolution of the TFT used for this project. Though UI is dynamic and can scale to any screen resolution.
 * By default Peppy has radio profiles for English, French, German and Russian languages. Users can easily add their own stations to playlists.
 * Currently Peppy has only Internet Radio functionality. In the future releases support for playing audio files and streams will be implemented.
 
-
+And finally the key features of the Woodware component:
+* Original custom design.
+* Made mostly of wood (Cherry and Walnut) with acrylic front and back panels.
+* Natural finish - the variation of French Polish.
 
 ### Screenshots
 To give you the idea how Peppy GUI looks like here are several screenshots of the Peppy player in different languages.
