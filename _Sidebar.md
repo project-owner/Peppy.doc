@@ -2,6 +2,7 @@
 * [Home](https://github.com/project-owner/Peppy.doc/wiki/Home)
     * [What is Peppy?](https://github.com/project-owner/Peppy.doc/wiki/Home#what)
     * [Screenshots](https://github.com/project-owner/Peppy.doc/wiki/Home#screenshots)
+    * [Enjoy!](https://github.com/project-owner/Peppy.doc/wiki/Home#enjoy)
 * [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware)
     * [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2)
     * [HiFiBerry AMP+](https://github.com/project-owner/Peppy.doc/wiki/HiFiBerry AMP+)
