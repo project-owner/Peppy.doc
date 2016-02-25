@@ -22,4 +22,5 @@ The following image shows all hardware ingredients which I used for the Peppy pr
 
 9. [Passive Radiators](https://github.com/project-owner/Peppy.doc/wiki/Passive Radiators). There are several ways how you can handle the back side of your speaker system: do nothing and keep it open, use sound port or use passive radiators. I used the latter method as the former ones either look not so attractive (though probably provide better acoustics) or tend to collect dust and insects ;)
 
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Home) [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2)
+<table width="100%"><tr><td>
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Home)</td><td>[Next>>](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2)</td></tr></table>
