@@ -1,4 +1,4 @@
-Warning! This chapter contains numerous acronyms. If you are allergic to acronyms go ahead and skip it :)
+Warning! This chapter contains numerous acronyms. If you are like me allergic to acronyms go ahead and skip it :)
 
 [Raspberri Pi 2](https://www.raspberrypi.org/) single-board computer was developed for educational purposes. But due to its small form factor and extensibility it became very popular platform for all sorts of DIY (Do-It-Yourself) projects including audio projects. The functionality of the Raspberry Pi can be extended by adding so-called HAT (Hardware Attached on Top) modules which can be connected to 40-pin GPIO (General Purpose Input/Output) connector. You can see it on the far side of the module in the following image.
 <p align="center">
