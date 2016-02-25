@@ -49,6 +49,5 @@ I hope that the information presented here will be useful for DIY kind of develo
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/photo.jpg|alt=photo]]
 </p>
 Enjoy!
-<p align="center">
+
 [Next](https://github.com/project-owner/Peppy.doc/wiki/Hardware)
-</p>
