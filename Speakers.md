@@ -4,7 +4,7 @@ For the Peppy player I first acquired speakers and then designed and built the c
 * Another criteria was speaker wattage. Amp+ can output 25W therefore the speakers should be in the same power range. 
 * And finally as I was going to use black acrylic glass for front and back panels the speakers should be also in dark colors and preferably with black grill which could protect speakers' membranes from dust and accidental damages.
 
-The speaker which passed these filtering criteria was car speaker [Sony XS-GTF1027](http://www.amazon.com/gp/product/B004WEZM7Q). The size of these speakers is 4" which suits great for boombox project. The frequency range is 60-24,000 Hz which is also great for boombox when you don't expect very low bass from such a small case. The high frequencies are provided by the separate twitter sitting in the center of the speaker. The speaker impedance is 4 Ohm and 30W power suits perfectly for Amp+ output. And finally they have pretty attractive black grills.
+The speaker which passed these filtering criteria was car speaker [Sony XS-GTF1027](http://www.amazon.com/gp/product/B004WEZM7Q). The size of these speakers is 4" which suits great for boombox project. The frequency range is 60-24,000 Hz which is also great for boombox when you don't expect very low bass from such a small case. The high frequencies are provided by the separate twitter sitting in the center of the speaker. The speaker impedance 4 Ohm and 30W power suits perfectly for Amp+ output. And finally they have pretty attractive black grills.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-1.png|alt=sp-1]]
 </p>
