@@ -23,6 +23,7 @@ You have to connect to the button main AC power 110V and 12V from PS for the blu
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pb-2.png|alt=pb]]
 </p>
 
+The following diagram shows all necessary connections required to power Peppy player. Raspberry Pi connects to power through Amp+ module (GPIO connector).
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/ps-connect.png|alt=ps-connect]]
 </p>
