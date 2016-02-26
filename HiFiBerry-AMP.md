@@ -1,4 +1,4 @@
-[HiFiBerry Amp+](https://www.hifiberry.com/ampplus/) is the integrated amplifier module - instead of using those traditional components for digital audio system: DAC - Pre-Amp - Power-Amp you can use just one - Amp+. It has Class-D amplifier on board which provides high quality powerful output - 25W on 4 Ohm speakers. This is also very efficient amplifier - with average usage there is no need to use heat sink or fan.
+[HiFiBerry Amp+](https://www.hifiberry.com/ampplus/) is the integrated amplifier module. That means that instead of using traditional components for a digital audio system: DAC - Pre-Amp - Power-Amp you can use just one - Amp+. It has Class-D amplifier on board which provides high quality powerful output: 25W on 4 Ohm speakers. This is also very efficient amplifier and because it stays cool there is no need to use heat sink or fan.
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/amp.png|alt=Peppy]]
@@ -12,8 +12,10 @@ Amp+ is ready right out of the box. You just have to install optional spacers (e
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pi-spacers.png|alt=Peppy]]
 </p>
 
-After attaching Amp+ to GPIO connector on Raspberry Pi 2 some software configuration should be done. The details of that process will be covered in the separate software chapter.
+Amp+ has 40-pin connector with pins which protrude through the board and allow to connect any other devices which need GPIO signals. Peppy player leverages this Amp+ feature to connect another external components: IR Sensor, Rotary Encoders and Touch-Screen. Just remember that pins used by Amp+ should not be used by another devices.
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pi-amp.png|alt=Peppy]]
 </p>
+
+After attaching Amp+ to GPIO connector on Raspberry Pi 2 some software configuration should be done. The details of that process will be covered in the separate software chapter.
