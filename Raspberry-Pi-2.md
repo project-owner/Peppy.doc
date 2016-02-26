@@ -9,3 +9,5 @@ After preparing SD card you just need to insert it into the slot on the bottom o
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sd.png|alt=Peppy]]
 </p>
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Hardware) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Amplifier)
