@@ -6,7 +6,7 @@
 * [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware)
     * [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2)
     * [HiFiBerry AMP+](https://github.com/project-owner/Peppy.doc/wiki/HiFiBerry AMP)
-    * [Adafruit PiTFT Touchscreen](https://github.com/project-owner/Peppy.doc/wiki/Adafruit PiTFT)
+    * [Adafruit Touchscreen](https://github.com/project-owner/Peppy.doc/wiki/Adafruit PiTFT)
     * [Speakers](https://github.com/project-owner/Peppy.doc/wiki/Speakers)
     * [Passive Radiators](https://github.com/project-owner/Peppy.doc/wiki/Passive Radiators)
     * [Power Supply](https://github.com/project-owner/Peppy.doc/wiki/Power Supply)
