@@ -4,7 +4,7 @@
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/tft-1.png|alt=Tft1]]
 </p>
 
-There are two small pads on the back of the PiTFT. The PiTFT comes with those pads connected. This allows to switch on/off the PiTFT back-light by changing level on GPIO pin #18. This is a good feature which could be used for example to switch off PiTFT when player enters the screensaver mode. But unfortunately Amp+ module is also using GPIO pin#18 for its own purposes. Therefore if you don't cut that trace which connects those two small pads Amp+ will be nonfunctional. You can do that by hobby knife.
+There are two small pads on the back of the PiTFT. The PiTFT comes with those pads connected. This allows to switch on/off the PiTFT back-light by changing level on GPIO pin #18. This is a good feature which could be used for example to switch off PiTFT when player enters the screensaver mode. But unfortunately Amp+ module is also using GPIO pin#18 for its own purposes. Therefore if you don't cut that trace which connects those two small pads Amp+ will be nonfunctional. You can do that by hobby knife. The image below shows the pads and trace before cut and after.
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/tft-2.png|alt=Tft2]]
