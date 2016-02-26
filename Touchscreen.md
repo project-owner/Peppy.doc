@@ -15,3 +15,4 @@ PiTFT can be connected to 40-pin GPIO connector of the Raspberry Pi 2 using the 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/tft-3.png|alt=Tft3]]
 </p>
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Amplifier) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Speakers)
