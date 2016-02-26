@@ -27,3 +27,5 @@ The following diagram shows all necessary connections required to power Peppy pl
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/ps-connect.png|alt=ps-connect]]
 </p>
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Passive Radiators) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Infrared Sensor)
