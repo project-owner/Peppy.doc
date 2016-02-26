@@ -1,4 +1,4 @@
-[HiFiBerry Amp+](https://www.hifiberry.com/ampplus/) is the integrated amplifier module. That means that instead of using traditional components for a digital audio system: DAC - Pre-Amp - Power-Amp you can use just one - Amp+. It has Class-D amplifier on board which provides high quality powerful output: 25W on 4 Ohm speakers. This is also very efficient amplifier and because of low heat which it makes there is no need to use heat sink or fan.
+[HiFiBerry Amp+](https://www.hifiberry.com/ampplus/) is the integrated amplifier module. That means that instead of using traditional components for a digital audio system: DAC - Pre-Amp - Power-Amp you can use just one - Amp+. It has Class-D amplifier on board which provides high quality powerful output: 25W on 4 Ohm speakers. As any other Class-D amplifier it's also very efficient amplifier and because of that there is no need to use heat sink or fan.
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/amp.png|alt=Peppy]]
