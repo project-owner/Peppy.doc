@@ -8,7 +8,7 @@ The speaker which passed these filtering criteria was car speaker [Sony XS-GTF10
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-1.png|alt=sp-1]]
 </p>
-Each speakers can be easily mounted on case with four screws which come with speakers.
+Each speaker can be easily mounted on case with four screws which come with speaker.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-2.png|alt=sp-2]]
 </p>
