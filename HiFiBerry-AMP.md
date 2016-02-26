@@ -6,7 +6,7 @@
 
 Raspberry Pi 2 feeds audio data to Amp+ via [I2S (Integrated Interchip Sound)](https://en.wikipedia.org/wiki/I%C2%B2S) signal. It comes from Raspberry Pi to Amp+ through GPIO connector. This is the same signal which you can find in traditional CD players between the transport and DAC.
 
-Amp+ is ready right out of the box. You just have to install optional spacers (either your own or those which come with Amp+) on Raspberry Pi.
+Amp+ is ready-to-use right out of the box. You just have to install optional spacers (either your own or those which come with Amp+) on Raspberry Pi.
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pi-spacers.png|alt=Peppy]]
