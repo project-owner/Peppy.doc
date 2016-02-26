@@ -16,3 +16,4 @@ The speaker and grill are attached to the body by the same screws.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-3.png|alt=sp-3]]
 </p>
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Touchscreen) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Passive Radiators)
