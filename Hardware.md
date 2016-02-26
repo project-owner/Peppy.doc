@@ -6,11 +6,11 @@ The following image shows all hardware ingredients which I used for the Peppy pr
 
 1. [Power Supply](https://github.com/project-owner/Peppy.doc/wiki/Power Supply). This is very important component in any project. Under-powering your system can cause many intermittent problems. Therefore I recommend to use good power supply which can provide more energy than your system requires. Over-powering doesn't hurt as your system will take only energy which it needs.
 
-2. [Touch-Screen](https://github.com/project-owner/Peppy.doc/wiki/Adafruit PiTFT). This is the main controlling and navigation tool in Peppy. The software can work with screen of any size/resolution. But I recommend to use the screen of size 3.5" and resolution 480*320 minimum. I've tried 2.8" screen and found it a bit small at least for my fingers. There is no limit on higher end just make sure that it will either fit into your existing enclosure or build new one accordingly.
+2. [Touchscreen](https://github.com/project-owner/Peppy.doc/wiki/Touchscreen). This is the main controlling and navigation tool in Peppy. The software can work with screen of any size/resolution. But I recommend to use the screen of size 3.5" and resolution 480*320 minimum. I've tried 2.8" screen and found it a bit small at least for my fingers. There is no limit on higher end just make sure that it will either fit into your existing enclosure or build new one accordingly.
 
 3. [Illuminated Power push-button](https://github.com/project-owner/Peppy.doc/wiki/Power Supply). Make sure that you buy button with diameter 19 mm. There is similar one with diameter 16 mm but it's suitable only for child's fingers.
 
-4. [Integrated DAC-Amplifier module](https://github.com/project-owner/Peppy.doc/wiki/HiFiBerry AMP+). It provides conversion of I2S signal provided by Raspberry Pi into signal appropriate for feeding speakers.
+4. [Amplifier](https://github.com/project-owner/Peppy.doc/wiki/Amplifier). It provides conversion of I2S signal provided by Raspberry Pi into signal appropriate for feeding speakers.
 
 5. [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2). There are several models of this single-board computer. The model 2 has much better performance over its previous models because of more powerful CPU. This document will discuss the usage of model 2 only.
 
