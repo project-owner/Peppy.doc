@@ -19,3 +19,5 @@ Amp+ has 40-pin connector with pins which protrude through the board and allow t
 </p>
 
 After attaching Amp+ to GPIO connector on Raspberry Pi 2 some software configuration should be done to make Amp+ work properly. The details of that process will be covered in the separate software chapter.
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Touchscreen)
