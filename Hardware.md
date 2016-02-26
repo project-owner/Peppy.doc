@@ -10,7 +10,7 @@ The following image shows all hardware ingredients which I used for the Peppy pr
 
 3. [Illuminated Power push-button](https://github.com/project-owner/Peppy.doc/wiki/Power Supply). Make sure that you buy button with diameter 19 mm. There is similar one with diameter 16 mm but it's suitable only for child's fingers.
 
-4. [Amplifier](https://github.com/project-owner/Peppy.doc/wiki/Amplifier). It provides conversion of I2S signal provided by Raspberry Pi into signal appropriate for feeding speakers.
+4. [Amplifier](https://github.com/project-owner/Peppy.doc/wiki/Amplifier). This module converts I2S digital signal coming from Raspberry Pi into the analog signal appropriate for feeding speakers.
 
 5. [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2). There are several models of this single-board computer. The model 2 has much better performance over its previous models because of more powerful CPU. This document will discuss the usage of model 2 only.
 
