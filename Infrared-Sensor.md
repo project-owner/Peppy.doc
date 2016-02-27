@@ -16,3 +16,5 @@ The front panel of the Peppy player is made of the black opaque acrylic glass wh
 </p>
 
 As infrared sensor needs support from the system Linux drivers (LIRC) some system configuration changes are required. The software chapter will cover that in detail.
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Power Supply) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Rotary Encoders)
