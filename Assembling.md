@@ -15,7 +15,6 @@ The following images show the assembling process of the hardware components.
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/a-3.png|alt=a-3]]
 </p>
 
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Hardware Tools) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Software)
 4. The GPIO cable with soldered infrared sensor and rotary encoders connected to the Amp+ and to the touchscreen.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/a-4.png|alt=a-4]]
@@ -40,3 +39,5 @@ The following images show the assembling process of the hardware components.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/a-9.png|alt=a-9]]
 </p>
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Hardware Tools) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Software)
