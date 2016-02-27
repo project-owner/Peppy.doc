@@ -18,3 +18,5 @@ The following image shows the tools which were used to assemble together the har
 7. Hexagonal Spanner. This tools is required to tighten screws in the aluminum knobs attached to the rotary encoders.
 
 8. Wire Cutters. This is a must-have tool for any electronic project. It's used to cut wires and to shorten pins of the electronic components.
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Networking) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Assembling)
