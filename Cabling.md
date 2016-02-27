@@ -7,7 +7,7 @@ From all hardware components only Amp+ was attached to the Raspberry Pi 2 direct
 
 2. Using hobby knife make a small cut at the cable edge which will split the cable into 26-pin and 14-pin parts. Then just using your fingers and nails tear two parts down to the connector. The part with 26-pin will go to the touchscreen and infrared sensor and the rest to the rotary encoders.
 
-3. Attach female 26-pin connector for touchscreen. Make sure that you placed it at the correct position and aligned it properly by the cable edges. Then gently squeeze it by pliers till the click sound of the side fasteners.
+3. Attach female 26-pin connector for touchscreen. Make sure that you placed it at the correct position and aligned it properly by the cable edges. Then gently squeeze it by pliers till the click sound of the side fasteners. Keep in mind that connection cable between GPIO and touchscreen should be as short as possible. The long cable will cause delays in the software and will increase the screen refresh rate.
 
 4. Using hobby knife form the parts for the rotary encoders and cut off the wires which are not used. Make cuts as close to the 40-pin connector as possible but be careful as it's easy to cut the neighbor wires. One cable will have 4 wires and the other 5 wires as the required wires are not adjacent.
 
