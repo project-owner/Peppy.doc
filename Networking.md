@@ -9,7 +9,7 @@ In my home network this is the most reliable connection method. The Peppy player
 </p>
 
 ### Wireless WiFi connection
-This is more convenient method as it doesn't need any network cable but less reliable method (at least in my home network) than wired connection. I have tried couple USB WiFi dongles and had the best results with the following [dongle](http://www.amazon.com/CanaKit-Raspberry-Wireless-Adapter-Dongle/dp/B00GFAN498).
+This is more convenient method as it doesn't need any network cable but less reliable method (at least in my home network) than wired connection. I have tried a couple different USB WiFi dongles but had the best results with the following [one](http://www.amazon.com/CanaKit-Raspberry-Wireless-Adapter-Dongle/dp/B00GFAN498).
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/wifi.png|alt=wifi]]
 </p>
