@@ -9,9 +9,11 @@ In my home network this is the most reliable connection method. The Peppy player
 </p>
 
 ### Wireless WiFi connection
-This is more convenient method as it doesn't need any network cable but less reliable method (at least in my home network) than wired connection. I have tried a couple different USB WiFi dongles but had the best results with the following [one](http://www.amazon.com/CanaKit-Raspberry-Wireless-Adapter-Dongle/dp/B00GFAN498).
+This is more convenient method as it doesn't need any network cable but less reliable method (at least in my home network) than the wired connection. I have tried a couple of different USB WiFi dongles but had the best results with the following [one](http://www.amazon.com/CanaKit-Raspberry-Wireless-Adapter-Dongle/dp/B00GFAN498).
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/wifi.png|alt=wifi]]
 </p>
+
+The software chapter will explain how to configure the WiFi system so that it would work with the Peppy player. There is one bug and I still didn't find its root cause. That bug prevents the usage of infrared remote control when WiFi connection is in use.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Cabling) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Hardware Tools)
