@@ -13,3 +13,5 @@ This is more convenient method as it doesn't need any network cable but less rel
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/wifi.png|alt=wifi]]
 </p>
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Cabling) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Hardware Tools)
