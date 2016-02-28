@@ -4,3 +4,5 @@
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/case-1.png|alt=case-1]]
 </p>
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Design) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Gluing)
