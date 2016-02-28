@@ -34,7 +34,7 @@
 * [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware)
     * [Design](https://github.com/project-owner/Peppy.doc/wiki/Design)
     * [Sawing](https://github.com/project-owner/Peppy.doc/wiki/Sawing)
-    * [Glueing](https://github.com/project-owner/Peppy.doc/wiki/Glueing)
+    * [Gluing](https://github.com/project-owner/Peppy.doc/wiki/Gluing)
     * [Sanding](https://github.com/project-owner/Peppy.doc/wiki/Sanding)
     * [Finishing](https://github.com/project-owner/Peppy.doc/wiki/Finishing)
 * [Sketches](https://github.com/project-owner/Peppy.doc/wiki/Sketches)
