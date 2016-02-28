@@ -30,6 +30,7 @@ And finally the key features of the Woodware component:
 * Original custom design.
 * Made of wood (Cherry and Walnut).
 * Natural finish - the variation of French Polish.
+* Solid wood adds the feeling of the solid build due to its weight.
 
 ### Screenshots
 To give you the idea how Peppy GUI looks like here are several screenshots of the Peppy player.
