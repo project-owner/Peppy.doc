@@ -1,4 +1,6 @@
-The following image shows the tools which were used to assemble together the hardware components of the Peppy player. This image just gives you the idea what you will need if you will decide to work on the similar project. You can definitely use any other tools which you have in your disposal.
+The following images shows the tools which were used while making Peppy player hardware. The images just give you the idea what you will need if you will decide to work on the similar project. You can definitely use any other tools which you have in your disposal.
+
+### Mechanical Tools
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/h-tools.png|alt=h-tools]]
 </p>
