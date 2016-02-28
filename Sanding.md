@@ -1,0 +1,1 @@
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Gluing) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Finishing)
