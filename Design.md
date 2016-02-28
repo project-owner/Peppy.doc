@@ -3,7 +3,7 @@ Any design starts from sketches and finishes with ready-to-use plans, diagrams o
 * Expose nice wood grain as much as possible. 
 * Keep the case weight in the reasonable range. Solid wood is pretty heavy comparing to
 * Provide holes for the passive ventilation system to cool electronic components.
-* Make the case easy to assemble.
+* Make the case easy to assemble. Joining
 * Make it transportable. Though it's 
 * All parts of the case should be easily accessible to apply finish.
 
