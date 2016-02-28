@@ -1,4 +1,6 @@
-The case/enclosure is probably the only way to distinguish professional product from DIY project. In the Peppy player I've tried to eliminate this difference as much as possible. Some time ago I took woodworking classes and decided to leverage that knowledge/experience in making wooden case for Peppy player. Before start working on the case/enclosure the hardware part should be finished. Working on both parts at the same is more difficult and troublesome. As any traditional woodworking process the case making process for the Peppy player consisted of the following steps:
+The case/enclosure is probably the only way to distinguish a professional product from a DIY project. In the Peppy player I've tried to eliminate this difference as much as possible. Some time ago I took woodworking classes and decided to leverage that knowledge/experience in making wooden case for Peppy player. 
+
+Before start working on the case/enclosure the electronic hardware part should be finished. Working on both parts at the same is more difficult and troublesome. As any traditional woodworking process the case making process for the Peppy player consisted of the following steps:
 
 1. Design
 2. Sawing
