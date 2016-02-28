@@ -37,5 +37,4 @@
     * [Sawing](https://github.com/project-owner/Peppy.doc/wiki/Sawing)
     * [Glueing](https://github.com/project-owner/Peppy.doc/wiki/Glueing)
     * [Finishing](https://github.com/project-owner/Peppy.doc/wiki/Finishing)
-* [Troubleshooting](https://github.com/project-owner/Peppy.doc/wiki/Troubleshooting)
 * [Sketches](https://github.com/project-owner/Peppy.doc/wiki/Sketches)
