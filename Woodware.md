@@ -24,9 +24,22 @@ The following image shows the main woodworking tools which I've used while worki
 
 4. [C-Clamps](http://www.amazon.com/gp/product/B000NY6QO2). I have put just six 6" C-clamps on the image in reality I have used bigger clamps as well. They are required to tighten your pieces at the gluing stage.
 
+### Materials
+When I have figured out all case dimensions and finished the design I started wood selection process. The wood should be of medium hardness so that it could be easily sawed on the scroll saw without breaking too many blades. Therefore such wood as maple was excluded because it's very dense and hard to process. At the same time wood should not be too soft as it will be easy to chip it. So basswood doesn't work here either. Finally I selected [walnut](http://www.ebay.com/itm/Packages-of-Kiln-Dried-Premium-Black-Walnut-Thin-Lumber-/380809632534) as a dark wood and [cherry](http://www.ebay.com/itm/Packages-of-Kiln-Dried-Premium-Cherry-Thin-Lumber-/251467912348) as a lighter wood. It's good to have some contrast in your design. Cherry darkens over time so the initial contrast will be diminished.
+
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/wood.png|alt=wood]]
 </p>
+
+Next image shows different materials which were used to glue and finish the wooden case for Peppy player.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/materials.png|alt=materials]]
 </p>
+
+1. [Wood Glue](http://www.amazon.com/gp/product/B0000223UR?keywords=titebond%20II&qid=1456695105&ref_=sr_1_1&sr=8-1). This glue provides literally unbreakable wood joint.
+
+2. [Boiled Linseed Oil](http://www.amazon.com/Klean-Strip-Green-QLO45-Linseed-1-Quart/dp/B000I199FS). It's recommended to apply this oil before applying final finish.
+
+3. [Amber Shellac](http://www.amazon.com/Rust-Oleum-Zinsser-704H-1-Quart-Shellac/dp/B002KR0HEA). This should be applied in the very end of the finishing process.
+
+4. [Denatured Alcohol](http://www.amazon.com/Klean-Strip-QSL26-Denatured-Alcohol-Quart/dp/B000SL3S6Y). As shellac comes very thick from the can you have to thin it using denatured alcohol.
