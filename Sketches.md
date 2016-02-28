@@ -52,3 +52,4 @@ Sometimes it's interesting to see what path the project passed from the very ear
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/sketches/s-12.jpg|alt=s-12]]
 </p>
 
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Finishing) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Home)
