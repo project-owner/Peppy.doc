@@ -5,3 +5,13 @@ The case/enclosure is probably the only way to distinguish professional product 
 3. Gluing
 4. Sanding
 5. Finishing
+
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/tools.png|alt=tools]]
+</p>
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/wood.png|alt=wood]]
+</p>
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/materials.png|alt=materials]]
+</p>
