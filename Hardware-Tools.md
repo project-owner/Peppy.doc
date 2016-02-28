@@ -21,4 +21,7 @@ The following images shows the tools which were used while making Peppy player h
 
 8. Wire Cutters. This is a must-have tool for any electronic project. It's used to cut wires and to shorten pins of the electronic components.
 
+### Electrical tools.
+
+
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Networking) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Assembling)
