@@ -20,7 +20,7 @@ The following image shows the main woodworking tools which I've used while worki
 
 2. Drill. This tools is necessary to drill holes for joint pins in the wooden case. It's better to use a drill press for this task as it provides more stability but this kind of drill works fine as well.
 
-3. [Oscillating Spindle Sander](http://www.amazon.com/gp/product/B00LPFIPPQ). No matter how skillful you are in scroll-sawing it's very difficult to make very precise cuts. There are always drawbacks after sawing and gluing. The sander helps very well to eliminate those drawbacks. Just remember that this is very noisy and dusty tool. It's better to connect some dust collecting system to the sander (I used vacuum cleaner). Otherwise the dust will be scattered all over your workplace.
+3. [Oscillating Spindle Sander](http://www.amazon.com/gp/product/B00LPFIPPQ). No matter how skillful you are in scroll-sawing it's very difficult to make very precise cuts. There are always drawbacks after sawing and gluing. The sander helps to eliminate those drawbacks. Just remember that this is very noisy and dusty tool. It's better to connect some dust collecting system to the sander (I used vacuum cleaner). Otherwise the dust will be scattered all over your workplace.
 
 4. [C-Clamps](http://www.amazon.com/gp/product/B000NY6QO2). I have put just six 6" C-clamps on the image in reality I have used bigger clamps as well. They are required to tighten your pieces at the gluing stage.
 
