@@ -43,3 +43,5 @@ Next image shows different materials which were used to glue and finish the wood
 3. [Amber Shellac](http://www.amazon.com/Rust-Oleum-Zinsser-704H-1-Quart-Shellac/dp/B002KR0HEA). This should be applied in the very end of the finishing process.
 
 4. [Denatured Alcohol](http://www.amazon.com/Klean-Strip-QSL26-Denatured-Alcohol-Quart/dp/B000SL3S6Y). As shellac comes very thick from the can you have to thin it using denatured alcohol.
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Software Tools) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Design)
