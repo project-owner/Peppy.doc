@@ -1,3 +1,5 @@
+The regular scroll saw cannot handle thick boards. Therefore I decided to saw multiple boards and glue them together. This process is much longer but the result is pretty good. The boards had size 24"*6"1/4".
+
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/parts.png|alt=parts]]
 </p>
