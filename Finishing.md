@@ -12,7 +12,7 @@ The linseed oil should be applied on the whole surface of the wooden case - insi
 ### Applying Shellac
 The last finishing step is the variation of the famous French Polishing method which was used by European furniture makers for centuries. This is a bit tedious process but gives very good result. The main idea is to apply multiple shellac coats during the week course. Shellac which I bought is too thick to use it right out of the can. Therefore I diluted shellac with alcohol using ratio - 1 part shellac and 2 parts alcohol. More alcohol makes drying faster.
 
-Shellac should be also applied on the whole surface - inside and outside. Each day I applied 2-3 coats. Then let it dry and next day using 320 grit sanding paper rubbed lightly the whole surface to flatten it. I tried don't rub through the whole shellac layer. Actually shellac doesn't layer. The new coat melts into the previous one. After sanding I removed the white shellac powder with a soft fabric. Repeat the process during one week.
+Shellac should be also applied on the whole surface - inside and outside. Each day I applied 2-3 coats. Then let it dry and next day using 320 grit sanding paper rubbed lightly the whole surface to flatten it. Don't rub through the whole shellac layer. Actually shellac doesn't layer. The new coat melts into the previous one. After sanding I removed the white shellac powder with a soft fabric. Repeat the process during one week.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/case-4.png|alt=case-4]]
 </p>
