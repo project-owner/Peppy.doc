@@ -32,7 +32,7 @@ Next image shows different materials which were used to glue and finish the wood
 
 2. [**Boiled Linseed Oil**](http://www.amazon.com/Klean-Strip-Green-QLO45-Linseed-1-Quart/dp/B000I199FS). It's recommended to apply this oil before applying the final finish.
 
-3. [**Amber Shellac**](http://www.amazon.com/Rust-Oleum-Zinsser-704H-1-Quart-Shellac/dp/B002KR0HEA). This should be applied in the very end of the finishing process.
+3. [**Amber Shellac**](http://www.amazon.com/Rust-Oleum-Zinsser-704H-1-Quart-Shellac/dp/B002KR0HEA). It should be applied in the very end of the finishing process.
 
 4. [**Denatured Alcohol**](http://www.amazon.com/Klean-Strip-QSL26-Denatured-Alcohol-Quart/dp/B000SL3S6Y). As shellac comes very thick from the can you have to thin it using denatured alcohol.
 
