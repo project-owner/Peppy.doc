@@ -1,7 +1,7 @@
 The finishing process of the Peppy wooden case contained two steps:
 
-1. Applying Linseed Oil. This step is necessary to enhance the natural wood color. 
-2. Applying Shellac. This final step closes wood pores and makes the surface glossy.
+1. **Applying Linseed Oil**. This step is necessary to enhance the natural wood color. 
+2. **Applying Shellac**. This final step closes wood pores and makes the surface glossy.
 
 ### Applying Linseed Oil.
 The linseed oil should be applied on the whole surface of the wooden case - inside and outside. The whole piece should be covered at once. Let the wood soak oil as much as it needs. The oil dries in minutes. I applied oil 3-4 times. As walnut is open grained wood it absorbs more oil than closed grain cherry. In the end you can wipe out excess oil by paper towels. Let it sit and dry for a week or two. There is some gassing going on while the dryers in the oil do their work. The following image shows the case after oiling process. 
