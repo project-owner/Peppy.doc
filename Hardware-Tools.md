@@ -26,7 +26,7 @@ The following images shows the tools which were used while making Peppy player h
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/e-tools.png|alt=e-tools]]
 </p>
 
-Two electrical tools which you need to assemble hardware part of the Peppy player are:
+There are two main electrical tools which you need to assemble the hardware part of the Peppy player:
 
 1. [Soldering Iron](http://www.amazon.com/gp/product/B000AS28UC). The iron is mostly necessary to prepare GPIO cable which connects infrared sensor and rotary encoders. 
 
