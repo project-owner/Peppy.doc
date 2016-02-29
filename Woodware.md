@@ -4,11 +4,11 @@ Before the work on the case/enclosure starts the electronic hardware part should
 
 As any traditional woodworking process the case making process for the Peppy player consisted of the following steps:
 
-1. [Design](https://github.com/project-owner/Peppy.doc/wiki/Design)
-2. [Sawing](https://github.com/project-owner/Peppy.doc/wiki/Sawing)
-3. [Gluing](https://github.com/project-owner/Peppy.doc/wiki/Gluing)
-4. [Sanding](https://github.com/project-owner/Peppy.doc/wiki/Sanding)
-5. [Finishing](https://github.com/project-owner/Peppy.doc/wiki/Finishing)
+1. [**Design**](https://github.com/project-owner/Peppy.doc/wiki/Design)
+2. [**Sawing**](https://github.com/project-owner/Peppy.doc/wiki/Sawing)
+3. [**Gluing**](https://github.com/project-owner/Peppy.doc/wiki/Gluing)
+4. [**Sanding**](https://github.com/project-owner/Peppy.doc/wiki/Sanding)
+5. [**Finishing**](https://github.com/project-owner/Peppy.doc/wiki/Finishing)
 
 ### Woodworking Tools
 The following image shows the main woodworking tools which I've used while working on the wooden case for the Peppy player.
