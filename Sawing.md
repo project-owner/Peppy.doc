@@ -1,4 +1,5 @@
-The regular scroll saw cannot handle thick boards. Therefore I decided to saw multiple boards and glue them together. This process is much longer but the result is pretty good. The boards had size 24"*6"1/4".
+It's difficult to process boards with 2" thickness and the regular scroll saw cannot handle thick boards. Therefore I decided to saw multiple boards and glue them together. This process is much longer but you have much better control on wood and the result looks is pretty good. The boards had size 24"*6"1/4". This is more than my 21" scroll saw can handle. As the length of the player is 21" I had to cut to this size as the first step.
+
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/parts.png|alt=parts]]
