@@ -22,6 +22,14 @@ The following images shows the tools which were used while making Peppy player h
 8. Wire Cutters. This is a must-have tool for any electronic project. It's used to cut wires and to shorten pins of the electronic components.
 
 ### Electrical tools.
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/e-tools.png|alt=e-tools]]
+</p>
 
+Two electrical tools which you need to assemble hardware part of the Peppy player are:
+
+1. [Soldering Iron](http://www.amazon.com/gp/product/B000AS28UC). The iron is mostly necessary to prepare GPIO cable which connects infrared sensor and rotary encoders. 
+
+2. [Multimeter](http://www.ebay.com/itm/LCD-Display-Digital-Ammeter-Voltmeter-Ohmmeter-Capacimeter-Multitester-w-Lead-/321883656749). This tool is used to define DC polarity, to make sure that voltage from power supply is correct and to find out the proper wires either in the cables or connectors.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Networking) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Assembling)
