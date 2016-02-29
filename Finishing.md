@@ -19,7 +19,8 @@ Shellac should be also applied on the whole surface - inside and outside. Each d
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/case-5.png|alt=case-5]]
 </p>
-In a week I got very nice smooth flat glass surface. Shellac doesn't block UV rays. As I did that on open air with sun rays hitting the case the cherry wood became darker than it was originally coming closer to the walnut.
+In a week I got very nice smooth flat glass surface. Shellac doesn't block UV rays. As I did that on open air with sun rays hitting the case the cherry wood became darker than it was originally coming closer to the walnut. But don't expose the piece to the open sun for a long time as the shellac and oil can literally boil and it will be difficult to get rid of those small air bubbles in your finish.
+
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/case-6.png|alt=case-6]]
 </p>
