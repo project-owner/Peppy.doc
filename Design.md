@@ -8,8 +8,8 @@ Any design starts from sketches and finishes with ready-to-use schemes and diagr
 
 * **Make acceptable acoustics**. It's difficult to create good sound system in such a small space as boombox. But some attempts could be made. To achieve that I tried to make speaker space insulated from the rest of the player. So speakers are placed in almost sealed space. There is just a small hole for connection wires. On the back side of that tube I placed the passive radiators.
 
-* Make the case easy to assemble. If you have any experience in woodworking you are probably familiar with many different wood joins. Joining
+* **Make the case easy to assemble**. If you have any experience in woodworking you are probably familiar with woodworking joinery. That's the whole science in its own. I decided to simplify the joints between wood components in my wooden case. For that I used the simplest type of joint - the joint by means of wooden pins. Even those pins could be avoided and pieces could be just glued to each other but that allowed me to assemble/disassemble the whole case before it was glued. The whole case consists of just seven pieces.
+
 * Make it transportable. Though it's 
-* All parts of the case should be easily accessible to apply finish.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Woodware) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Sawing)
