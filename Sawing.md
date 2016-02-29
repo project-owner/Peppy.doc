@@ -2,9 +2,11 @@ It's difficult to process boards with 2" thickness on the regular scroll saw. Th
 
 The wooden case for the Peppy player consists of 7 parts: the central frame (cherry), 2 cylindrical parts for speakers (walnut), 2 cylindrical parts for passive radiators (walnut) and two central parts for hardware (walnut). Each part is about 2" thick therefore it needs a stack of 8 layers of wood. So totally I had to prepare 8*7=56 parts. The following image shows all wooden parts after sawing and gluing.
 
+
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/parts.png|alt=parts]]
 </p>
+
 
 When I was sawing the 1/4" boards I tried to saw about 1-2 mm out of marking lines. That margin allowed me to compensate all drawback which can always happen during the sawing and gluing processes. That excess wood was removed during the sanding process when I sanded the pieces to the marking lines. As the case was constructed from several pieces that allowed to work separately on individual pieces. That's much easier than handling the case as one big piece. Only when all parts were adjusted to the proper sizes I glued them together.
 
