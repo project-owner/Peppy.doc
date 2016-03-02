@@ -46,7 +46,10 @@ Navigation buttons have different functionality in different modes.
 * **Navigation Page Right**. This button switches to the next page of stations on the right side.
 
 ###Title Bar###
-The Title Bar is common component for both modes.
+After switching from one station to another this component shows the name of newly selected station. If radio station doesn't provide the artist and song names the station name will be displayed all the time. The station name comes from the playlist file.
+There are four modes of displaying information in the title bar:
+1. 
+
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/title-1.png|alt=title-1]]
 </p>
@@ -59,6 +62,9 @@ The Title Bar is common component for both modes.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/title-4.png|alt=title-4]]
 </p>
+
+###Volume Bar###
+The Volume Bar is also common component for both modes.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/volume-1.png|alt=volume-1]]
 </p>
