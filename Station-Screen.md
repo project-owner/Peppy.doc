@@ -18,6 +18,10 @@ _**sudo poweroff**_. This is the recommended way to switch off the player becaus
 
 * **Navigation Right**. This button serves the same purposes as the previous button but for the right side.
 
+* **Home Button**. The Home Screen will be displayed after clicking on this button.
+
+* **Play/Pause Button**. This button provides functionality to control audio playback. Clicking on this button switches playback mode from Play to Pause and back.
+
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/page.png|alt=page]]
 </p>
