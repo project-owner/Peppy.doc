@@ -41,9 +41,12 @@ Navigation buttons have different functionality in different modes.
 
 * **Navigation Right**. This button serves the same purposes as the previous button but for the right side.
 
+* **Navigation Page Left**. This button switches to the next page of stations on the left side.
 
+* **Navigation Page Right**. This button switches to the next page of stations on the right side.
 
-
+###Title Bar###
+The Title Bar is common component for both modes.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/title-1.png|alt=title-1]]
 </p>
