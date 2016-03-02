@@ -1,4 +1,4 @@
-Sometimes it's interesting to see what path the project passed from the very early stage to its final form. The planning step is very early and important step in any project and I decided to show here some sketches which were prepared at the design stage of different Peppy components.
+Sometimes it's interesting to see the progress of the project from the very early stage to its final form. The planning step is very early and important step in any project and I decided to show here some sketches which were prepared at the design stage of different Peppy components.
 
 ### Woodware Sketches.
 <p align="center">
