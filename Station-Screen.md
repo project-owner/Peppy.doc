@@ -71,10 +71,12 @@ The Title Bar dynamically adjusts the way of displaying information depending on
 </p>
 
 ###Volume Bar###
-The Volume Bar is also common component for both modes.
+The Volume control component serves two purposes: adjust volume level and mute sound. There are two ways to adjust volume level. One way is to click on the volume knob and holding the mouse button down drag the knob to the desired position. Another way is just to click on the Volume Bar in the desired position. The knob will jump to that position and the volume level will be changed accordingly.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/volume-1.png|alt=volume-1]]
 </p>
+
+The single click on the volume knob will mute the sound.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/volume-2.png|alt=volume-2]]
 </p>
