@@ -55,10 +55,12 @@ The Title Bar dynamically adjusts the way of displaying information depending on
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/title-1.png|alt=title-1]]
 </p>
 
-2. If string doesn't fit into the screen width the font size will be reduced. The string with reduced font size will be displayed if it fits to the screen width.
+2. If the string displayed with default font size doesn't fit into the screen width the font size will be reduced. The string with reduced font size will be displayed if it fits into the screen width.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/title-2.png|alt=title-2]]
 </p>
+
+3. If the string with reduced font size doesn't fit into the screen width then the string will be broken into two parts: artist name which will be displayed as the first string and song name which will be displayed under the first string. 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/title-3.png|alt=title-3]]
 </p>
