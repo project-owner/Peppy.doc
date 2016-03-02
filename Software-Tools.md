@@ -1,4 +1,4 @@
-Here are all main Software Tools which were used for Peppy player development:
+Here are the main Software Tools which were used for Peppy player development:
 
 1. **[Eclipse](https://www.eclipse.org/)**. This is IDE for Java Developers.
 
