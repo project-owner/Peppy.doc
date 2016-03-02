@@ -64,6 +64,8 @@ The Title Bar dynamically adjusts the way of displaying information depending on
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/title-3.png|alt=title-3]]
 </p>
+
+4. If the strings in the previous approach don't fit into the screen width then the string will displayed using the default font and the string will be animated.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/title-4.png|alt=title-4]]
 </p>
