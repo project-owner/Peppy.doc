@@ -9,28 +9,41 @@ Peppy player will display this screen upon startup (if Splash Screen was disable
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/stations.png|alt=stations]]
 </p>
-* **Shutdown Button**. This toggle button should be clicked twice in order to shutdown the player. This is done to exclude accidental shutdown. If between these two clicks any other button will be clicked the shutdown action will be canceled. Upon the second click of the Shutdown Button Peppy player issues the following command (Linux platform):
-_**sudo poweroff**_. This is the recommended way to switch off the player because only during this process the player saves the current settings which include: current language, current genre and current station.
 
-* **Genre Button**. The icon of the Genre Button shows the current genre. Genre Screen will be displayed in place of Station Screen after clicking on Genre Button.
-
-* **Navigation Left**. This button serves two purposes: to switch to the station located on the left side from the current station and to display the number of stations on the left side from the current station.
-
-* **Navigation Right**. This button serves the same purposes as the previous button but for the right side.
-
-* **Home Button**. The Home Screen will be displayed after clicking on this button.
-
-* **Play/Pause Button**. This button provides functionality to control audio playback. Clicking on this button switches playback mode from Play to Pause and back.
+###Page Mode###
+Player switches to the Page Mode after clicking on the current station logo. In this mode Station menu will be displayed and the selection frame will be displayed on top of the current station. Another difference between Station Mode and Page Mode is navigation buttons. 
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/page.png|alt=page]]
 </p>
-<p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/play-pause.png|alt=play-pause]]
-</p>
+
+###Common Buttons###
+Both modes Station and Page have the following common buttons:
+
+* **Shutdown Button**. This toggle button should be clicked twice in order to shutdown the player. This is done to exclude accidental shutdown. If between these two clicks any other button will be clicked the shutdown action will be canceled. Upon the second click of the Shutdown Button Peppy player issues the following command (Linux platform):
+_**sudo poweroff**_. This is the recommended way to switch off the player because only during this process the player saves the current settings which include: current language, current genre and current station.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/shutdown.png|alt=shutdown]]
 </p>
+
+* **Genre Button**. The icon of the Genre Button shows the current genre. Genre Screen will be displayed in place of Station Screen after clicking on Genre Button.
+
+* **Home Button**. The Home Screen will be displayed after clicking on this button.
+
+* **Play/Pause Button**. This button provides functionality to control audio playback. Clicking on this button switches playback mode from Play to Pause and back.
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/play-pause.png|alt=play-pause]]
+</p>
+
+###Navigation Buttons###
+Navigation buttons have different functionality in different modes.
+* **Navigation Left**. This button serves two purposes: to switch to the station located on the left side from the current station and to display the number of stations on the left side from the current station.
+
+* **Navigation Right**. This button serves the same purposes as the previous button but for the right side.
+
+
+
+
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/title-1.png|alt=title-1]]
 </p>
