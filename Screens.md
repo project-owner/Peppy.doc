@@ -12,3 +12,5 @@ The possible transitions between screens can be found in the following image.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/sf.png|alt=sf]]
 </p>
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Configuration) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Splash)
