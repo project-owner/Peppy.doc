@@ -8,3 +8,5 @@ The Home screen serves the dispatching purpose. Through this screen you can tran
 * About. Shows the Splash screen with application info.
 
 The greyed-out buttons are not implemented yet.
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Splash) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Station)
