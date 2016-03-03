@@ -29,7 +29,7 @@ The Logo Screensaver displays the current radio station logo. It changes logo po
 ###Slideshow Screensaver###
 This screensaver shows images from the folder Peppy/screensaver/slideshow/slides. It shows images in the loop using alphabetical order of the file names. If image doesn't fit to the screen it will be scaled so that the whole image is visible on screen.
 
-Each release of the Peppy player will have new set of images for slideshow. Peppy releases will be dedicated to the famous artists. The release will be named after that artist. The paintings of that artist will be placed in the slides folder. For example the first release is dedicated to Leonardo Da Vinci and there are three his paintings in the slides folder.
+Each release of the Peppy player will have new set of images for slideshow. Peppy releases will be dedicated to the famous artists. The release will be named after that artist. The paintings of that artist will be placed in the slides folder. For example the first release 'Leonardo' is dedicated to Leonardo Da Vinci and there are three his paintings in the slides folder.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/saver-1.png|alt=saver-1]]
 </p>
