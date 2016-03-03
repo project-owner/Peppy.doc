@@ -10,3 +10,5 @@ The Language screen provides menu for switching to new language. Currently Peppy
 </p>
 
 After switching to new language all UI labels will be displayed using that new language and playlists for new language will be loaded. The details of the localization process will be discussed in the separate chapter.
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Genre) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Screensaver)
