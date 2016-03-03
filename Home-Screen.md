@@ -1,4 +1,4 @@
-The Home screen serves the dispatching purpose. Through this screen you can transition to another screens of the Peppy player. This is achieved by clicking on the corresponding button.
+The Home screen serves the dispatching purpose. Through this screen you can transition to another screens of the Peppy player.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/home.png|alt=home]]
 </p>
