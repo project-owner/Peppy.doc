@@ -1,4 +1,4 @@
-There are nine genres in Peppy player:
+There are nine genres in Peppy player. Each genre has its own playlist for each supported language.
 
 1. News. 
 2. Culture.
