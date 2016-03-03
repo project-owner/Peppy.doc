@@ -19,6 +19,7 @@
 * [Software](https://github.com/project-owner/Peppy.doc/wiki/Software)
     * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
     * [Configuration](https://github.com/project-owner/Peppy.doc/wiki/Configuration)
+    * [Screens](https://github.com/project-owner/Peppy.doc/wiki/Screens)
     * [Splash Screen](https://github.com/project-owner/Peppy.doc/wiki/Splash Screen)
     * [Station Screen](https://github.com/project-owner/Peppy.doc/wiki/Station Screen)
     * [Home Screen](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
