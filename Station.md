@@ -81,5 +81,5 @@ The single click on the volume knob will mute the sound.
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/volume-2.png|alt=volume-2]]
 </p>
 
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Splash Screen) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Home Screen) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Genre)
 
