@@ -6,7 +6,7 @@ The Raspbian OS can be installed on SD flash card from several different locatio
 3. [Adafruit Web Site](https://learn.adafruit.com/adafruit-pitft-3-dot-5-touch-screen-for-raspberry-pi/easy-install).
 
 I used the Raspbian from the Adafruit Web Site as it has in that distribution all required configuration settings for the PiTFT touchscreen which I bought from the same web site. If I would use the distribution from another place I would need to make all these changes for touchscreen myself. I used Raspbian Jessie version from September 24 2015.
-Free software [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) can be used to install Raspbian image on SD flash card.
+Free software [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) can be used to install Raspbian image on SD flash card. I used 8GB SD flash card.
 
 * [Raspbian](https://github.com/project-owner/Peppy.doc/wiki/Installation#raspbian)
 * [Python](https://github.com/project-owner/Peppy.doc/wiki/Installation#python)
