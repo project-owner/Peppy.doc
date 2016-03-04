@@ -13,10 +13,20 @@ Python comes with Raspbian distribution therefore there is no need to install it
 
 ###Pygame###
 Pygame also comes with Raspbian. To make sure that it's really there start Python interpreter and type the following line at prompt:
-
-\> import pygame
-
+```python
+import pygame
+```
 You shouldn't see any exceptions. If you'll see import exception that means there is no Pygame and it should be downloaded and installed from their [web site](http://www.pygame.org/download.shtml).
+
+###MPD/MPC###
+The following command installs MPD player in folder /usr/bin/mpd
+```
+sudo apt-get install mpd
+```
+To install MPC client run this command:
+```
+sudo apt-get install mpc
+```
 
 * [Raspbian](https://github.com/project-owner/Peppy.doc/wiki/Installation#raspbian)
 * [Python](https://github.com/project-owner/Peppy.doc/wiki/Installation#python)
