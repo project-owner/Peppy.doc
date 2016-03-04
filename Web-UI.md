@@ -10,7 +10,7 @@ The Web UI was written in a browser neutral way and should be running in all mod
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/browsers.png|alt=browsers]]
 </p>
-The following screenshots where taken from the Samsung smartphone running Chrome browser and from iPhone running Safari browser.
+The following pictures where taken from the Samsung smartphone running Chrome browser and from iPhone running Safari browser.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/web-ui.png|alt=web-ui]]
 </p>
