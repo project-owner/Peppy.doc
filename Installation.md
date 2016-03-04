@@ -27,6 +27,7 @@ To install MPC client run this command:
 ```
 sudo apt-get install mpc
 ```
+The configuration changes required for MPD will be discussed in the configuration chapter.
 
 * [Raspbian](https://github.com/project-owner/Peppy.doc/wiki/Installation#raspbian)
 * [Python](https://github.com/project-owner/Peppy.doc/wiki/Installation#python)
