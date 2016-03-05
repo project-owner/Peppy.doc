@@ -60,7 +60,22 @@ sudo apt-get install mpc
 ```
 
 ###LIRC###
-The LIRC is required if you are going to control Peppy player using Infrared Remote Control.
-
-
+The LIRC is required if you are going to control Peppy player using Infrared Remote Control. To check that LIRC is installed on your system run the command 'irw' which comes with LIRC (this is program for testing IR remote):
+```
+pi@raspberrypi ~ $ irw
+-bash: irw: command not found
+```
+I installed Raspbian from Adafruit web site and in my case LIRC was not included to Raspbian distro. To install LIRC run the following command:
+```
+sudo apt-get install lirc
+``` 
+This command will install lirc driver and it will create folder /etc/lirc with default files in it:
+```
+pi@raspberrypi ~ $ ls /etc/lirc
+hardware.conf  lircd.conf  lircmd.conf
+```
+You should prepare your own files and replace those default files. You can get my files created for WD TV Live remote control here:
+[hardware.conf]()
+[lircd.conf]()
+[lircmd.conf]()
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Software) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
