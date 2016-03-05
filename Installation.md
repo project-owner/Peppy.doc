@@ -12,10 +12,13 @@ After inserting SD card and switching on Raspberry Pi I connected to it using Pe
 ```
 sudo raspi-config
 ```
-* Expand Filesystem so that the whole space on SD card would be available. (1. Expand Filesystem)
-* Change language and timezone settings ()
-* Change password
-
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/rc-1.png|alt=rc-1]]
+</p>
+I used the following menu items from raspi-config:
+* Expanded Filesystem (1) so that the whole space on the SD flash card would be available.
+* Changed Boot options (3) for booting to console with autologin rather than to the desktop which is default option.
+* Changed timezone settings (5)
 
 ###Python###
 Python comes with Raspbian distribution therefore there is no need to install it separately. The default Python version is 2.7. The configuration chapter will explain how to switch to Python version 3 which is required version for the Peppy player.
