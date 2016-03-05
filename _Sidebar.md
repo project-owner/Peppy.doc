@@ -18,7 +18,7 @@
 * [Software](https://github.com/project-owner/Peppy.doc/wiki/Software)
     * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
     * [Configuration File](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
-* [GUI](https://github.com/project-owner/Peppy.doc/wiki/GUI)
+* [Peppy Player GUI](https://github.com/project-owner/Peppy.doc/wiki/GUI)
     * [Splash](https://github.com/project-owner/Peppy.doc/wiki/Splash)
     * [Home Screen](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
     * [Station](https://github.com/project-owner/Peppy.doc/wiki/Station)
