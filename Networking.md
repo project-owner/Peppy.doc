@@ -14,6 +14,8 @@ This is more convenient method as it doesn't need any network cable but less rel
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/wifi.png|alt=wifi]]
 </p>
 
-The software chapter will explain how to configure the WiFi system so that it would work with the Peppy player. There is one bug and I still didn't find its root cause. That bug prevents the usage of infrared remote control when WiFi connection is in use.
+[This web page](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md) explains how to configure WiFi for Raspberry Pi.
+
+There is currently the bug in Peppy player. That bug prevents the usage of infrared remote control when WiFi connection is in use.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Cabling) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Hardware Tools)
