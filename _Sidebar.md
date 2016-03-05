@@ -16,6 +16,7 @@
     * [Networking](https://github.com/project-owner/Peppy.doc/wiki/Networking)
     * [Assembling](https://github.com/project-owner/Peppy.doc/wiki/Assembling)
 * [Software](https://github.com/project-owner/Peppy.doc/wiki/Software)
+* [GUI](https://github.com/project-owner/Peppy.doc/wiki/GUI)
     * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
     * [Configuration File](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
     * [Screens](https://github.com/project-owner/Peppy.doc/wiki/Screens)
