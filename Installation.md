@@ -72,10 +72,12 @@ sudo apt-get install lirc
 This command will install lirc driver and it will create folder /etc/lirc with default files in it:
 ```
 pi@raspberrypi ~ $ ls /etc/lirc
-hardware.conf  lircd.conf  lircmd.conf
+hardware.conf  lircd  lircmd.conf
 ```
 You should prepare your own files and replace those default files. You can get my files created for WD TV Live remote control here:
-[hardware.conf]()
-[lircd.conf]()
+
+[hardware.conf](https://github.com/project-owner/Peppy.doc/blob/master/files/hardware.conf)
 [lircmd.conf]()
+[lircd]()
+
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Software) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
