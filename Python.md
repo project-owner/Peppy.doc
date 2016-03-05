@@ -2,3 +2,5 @@ Python comes with Raspbian distribution therefore there is no need to install it
 ```
 sudo ln -s -f /usr/bin/python3.4 /usr/bin/python
 ```
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/HiFiBerry Amp) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Pygame)
