@@ -17,7 +17,7 @@
     * [Assembling](https://github.com/project-owner/Peppy.doc/wiki/Assembling)
 * [Software](https://github.com/project-owner/Peppy.doc/wiki/Software)
     * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
-    * [Configuration](https://github.com/project-owner/Peppy.doc/wiki/Configuration)
+    * [Configuration File](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
     * [Screens](https://github.com/project-owner/Peppy.doc/wiki/Screens)
     * [Splash](https://github.com/project-owner/Peppy.doc/wiki/Splash)
     * [Home Screen](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
