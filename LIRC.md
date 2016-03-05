@@ -25,7 +25,7 @@ pi@raspberrypi ~ $ irw
 00000000219ea05f 00 KEY_UP WD_TVLIVE
 00000000219e00ff 00 KEY_DOWN WD_TVLIVE
 ```
-Finally you have to modify file ```/boot/config.txt```. Remove comments from line with ```dtoverlay=lirc-rpi``` and add GPIO pin number which will server as input from IR sensor. In my case it's GPIO pin #23:
+Finally you have to modify file ```/boot/config.txt```. Remove comments from line with ```dtoverlay=lirc-rpi``` and add GPIO pin number which will receive signal from IR sensor. In my case it's GPIO pin #23:
 ```
 dtoverlay=lirc-rpi,gpio_in_pin=23
 ```
