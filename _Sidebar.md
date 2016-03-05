@@ -17,6 +17,7 @@
     * [Assembling](https://github.com/project-owner/Peppy.doc/wiki/Assembling)
 * [Software](https://github.com/project-owner/Peppy.doc/wiki/Software)
     * [Raspbian](https://github.com/project-owner/Peppy.doc/wiki/Raspbian)
+    * [HiFiBerry Amp+](https://github.com/project-owner/Peppy.doc/wiki/HiFiBerry Amp)
     * [Python](https://github.com/project-owner/Peppy.doc/wiki/Python)
     * [Pygame](https://github.com/project-owner/Peppy.doc/wiki/Pygame)
     * [Mpd & Mpc](https://github.com/project-owner/Peppy.doc/wiki/Mpd & Mpc)
