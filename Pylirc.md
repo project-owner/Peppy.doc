@@ -1,4 +1,3 @@
-###Pylirc###
 Pylirc is LIRC Python wrapper and it's required to access LIRC from Python programs. To install Pylirc you should complete the following steps.
 
 Install files required by pylirc:
