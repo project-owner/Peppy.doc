@@ -108,6 +108,19 @@ cd /home/pi/pylirc2-0.1
 sudo python setup.py install
 sudo mv /usr/local/lib/python3.4/dist-packages/pylircmodule.cpython-34m.so /usr/local/lib/python3.4/dist-packages/pylirc.cpython-34m.so
 ```
-After completing all these steps you canIR remote control
+After completing all these steps you can test Pylirc by running my testing program [test-pylirc.py](https://github.com/project-owner/Peppy.doc/blob/master/files/test-pylirc.py) and pressing buttons on your IR remote control. The output in the console means that Pylirc works fine:
+```
+pi@raspberrypi ~ $ python test-lirc.py
+['ok']
+['up']
+['down']
+```
+
+###Pygame###
+There is no need to install Pygame as it comes pre-installed with Raspbian distro. But Raspbian Jessie has some incompatibility issues with SDL 2.x used by Pygame. That makes the touchscreen unusable. The workaround is to get SDL 1.2 from the previous Raspbian version - Wheezy. How to do that was explained [here](https://learn.adafruit.com/adafruit-2-4-pitft-hat-with-resistive-touchscreen-mini-kit/pitft-pygame-tips). Create the script [installsdl.sh](https://github.com/project-owner/Peppy.doc/blob/master/files/installsdl.sh) and run it:
+```
+sudo chmod +x installsdl.sh
+sudo ./installsdl.sh
+```
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Software) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
