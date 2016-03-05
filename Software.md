@@ -4,16 +4,9 @@ The following image shows the software components required to run Peppy player. 
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/software.png|alt=software]]
 </p>
 
-* **Raspbian (Jessie)**. This is Linux Kernel and drivers.
-* **TFT Driver**. This driver for PiTFT touchscreen comes with Raspbian distribution provided by Adafruit.
-* **Amp+ Driver**. This driver for HiFiBerry amplifier included to the Raspbian distribution.
-* **Python**. Python interpreter also comes with Raspbian.
-* **Pygame**. This Python library for GUI development also comes with Raspbian distribution. 
-* **LIRC**. It stands for Linux Infrared Remote Control. This driver should be installed manually.
-* **PyLIRC**. This Python wrapper for LIRC should be also installed manually.
-* **MPD/MPC**. This is free audio player (MPD) and client (MPC) for that player. They should be installed manually.
-* **Peppy**. This application should be installed from Github.
+The details about installation and configuration of each software component will be discussed in the corresponding chapters.
 
+###Software Tools###
 Here are the main Software Tools which were used for Peppy player development:
 
 1. **[Eclipse](https://www.eclipse.org/)**. This is IDE for Java Developers.
