@@ -1,4 +1,3 @@
-###Pygame###
 Pygame also comes with Raspbian. To make sure that it's really there start Python interpreter and type the following line at prompt:
 ```python
 import pygame
