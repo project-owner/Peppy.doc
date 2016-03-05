@@ -59,4 +59,8 @@ Peppy player can control MPD audio player using MPC client. To install MPC run t
 sudo apt-get install mpc
 ```
 
+###LIRC###
+The LIRC is required if you are going to control Peppy player using Infrared Remote Control.
+
+
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Software) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
