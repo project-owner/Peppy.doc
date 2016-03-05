@@ -19,4 +19,4 @@ Here are the main Software Tools which were used for Peppy player development:
 
 5. **[Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)**. The Raspbian OS image was placed to SD card using this program.
 
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Assembling) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Installation)
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Assembling) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Raspbian)
