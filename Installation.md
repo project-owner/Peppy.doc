@@ -8,6 +8,15 @@ The Raspbian OS can be installed on SD flash card from several different places:
 I used the Raspbian from the Adafruit Web Site as it has all required configuration settings for the PiTFT touchscreen which I bought from the same web site. If I would use the distribution from another place I would need to make all these changes for touchscreen myself. I used Raspbian Jessie version from September 24 2015.
 Free software [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) can be used to install Raspbian image on SD flash card. I used 8GB SD flash card.
 
+After inserting SD card and switching on Raspberry Pi I connected to it using Peppy and started configuration utility:
+```
+sudo raspi-config
+```
+* Expand Filesystem so that the whole space on SD card would be available. (1. Expand Filesystem)
+* Change language and timezone settings ()
+* Change password
+
+
 ###Python###
 Python comes with Raspbian distribution therefore there is no need to install it separately. The default Python version is 2.7. The configuration chapter will explain how to switch to Python version 3 which is required version for the Peppy player.
 
