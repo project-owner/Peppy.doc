@@ -9,3 +9,5 @@ There is no need to install Pygame as it comes pre-installed with Raspbian distr
 sudo chmod +x installsdl.sh
 sudo ./installsdl.sh
 ```
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Python) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Mpd & Mpc)
