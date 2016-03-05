@@ -18,3 +18,5 @@ I used the following menu items from raspi-config:
 * Expanded Filesystem (1) so that the whole space on the SD flash card would be available.
 * Changed Boot options (3) for booting to console with autologin rather than to the desktop which is default option.
 * Changed timezone settings (5)
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Software) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Adafruit PiTFT)
