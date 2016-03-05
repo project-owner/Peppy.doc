@@ -21,7 +21,10 @@ I used the following menu items from raspi-config:
 * Changed timezone settings (5)
 
 ###Python###
-Python comes with Raspbian distribution therefore there is no need to install it separately. The default Python version is 2.7. The configuration chapter will explain how to switch to Python version 3 which is required version for the Peppy player.
+Python comes with Raspbian distribution therefore there is no need to install it separately. The Peppy player was written using Python syntax from version 3. But the default Python version is 2.7. So if you just start Python from command line the version 2.7 will be in use. There is the symbolic link which points to version 2.7 - /usr/bin/python. That link should point to version 3 instead. To do that run the following command:
+```
+sudo ln -s -f /usr/bin/python3.4 /usr/bin/python
+```
 
 ###Pygame###
 Pygame also comes with Raspbian. To make sure that it's really there start Python interpreter and type the following line at prompt:
@@ -35,7 +38,23 @@ The following command installs MPD player in folder /usr/bin/mpd
 ```
 sudo apt-get install mpd
 ```
-To install MPC client run this command:
+After MPD installation set MPD mixer type to 'software' to control volume from MPD. For that uncomment the line with mixer_type in file /etc/mpd.conf:
+```
+audio_output {
+        type            "alsa"
+        name            "My ALSA Device"
+#       device          "hw:0,0"        # optional
+        mixer_type      "software"      # optional
+#       mixer_device    "default"       # optional
+#       mixer_control   "PCM"           # optional
+#       mixer_index     "0"             # optional
+```
+After installing MPD it's automatically configured as a service and it will start every time the Raspberry Pi starts. In order to have full control on MPD it's better to stop MPD service and disable it from starting upon system startup
+```
+sudo service mpd stop
+sudo update-rc.d mpd disable
+```
+Peppy player can control MPD audio player using MPC client. To install MPC run this command:
 ```
 sudo apt-get install mpc
 ```
