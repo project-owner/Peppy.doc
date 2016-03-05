@@ -1,4 +1,3 @@
-###Raspbian###
 The Raspbian OS can be installed on SD flash card from several different places:
 
 1. [Official Raspbian Web Site](https://www.raspbian.org/).
