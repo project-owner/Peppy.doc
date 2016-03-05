@@ -27,7 +27,6 @@
     * [Screensaver](https://github.com/project-owner/Peppy.doc/wiki/Screensaver)
     * [Web UI](https://github.com/project-owner/Peppy.doc/wiki/Web UI)
     * [Resolution](https://github.com/project-owner/Peppy.doc/wiki/Resolution)
-    * [Software Tools](https://github.com/project-owner/Peppy.doc/wiki/Software Tools)
 * [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware)
     * [Design](https://github.com/project-owner/Peppy.doc/wiki/Design)
     * [Sawing](https://github.com/project-owner/Peppy.doc/wiki/Sawing)
