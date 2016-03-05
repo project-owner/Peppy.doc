@@ -22,3 +22,5 @@ Peppy player can control MPD audio player using MPC client. To install MPC run t
 ```
 sudo apt-get install mpc
 ```
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Pygame) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/LIRC)
