@@ -17,6 +17,17 @@
     * [Assembling](https://github.com/project-owner/Peppy.doc/wiki/Assembling)
 * [Software](https://github.com/project-owner/Peppy.doc/wiki/Software)
     * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
+
+    * [Raspbian](https://github.com/project-owner/Peppy.doc/wiki/Raspbian)
+    * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
+    * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
+    * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
+    * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
+    * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
+    * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
+    * [Installation](https://github.com/project-owner/Peppy.doc/wiki/Installation)
+
+
     * [Configuration File](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
 * [Peppy Player UI](https://github.com/project-owner/Peppy.doc/wiki/Peppy Player UI)
     * [Splash](https://github.com/project-owner/Peppy.doc/wiki/Splash)
