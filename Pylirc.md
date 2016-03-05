@@ -24,3 +24,5 @@ pi@raspberrypi ~ $ python test-lirc.py
 ['up']
 ['down']
 ```
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/LIRC) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Peppy)
