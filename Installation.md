@@ -74,10 +74,22 @@ This command will install lirc driver and it will create folder /etc/lirc with d
 pi@raspberrypi ~ $ ls /etc/lirc
 hardware.conf  lircrc  lircd.conf
 ```
-You should prepare your own files and replace those default files. You can get my files created for WD TV Live remote control here:
+You should prepare your own files and replace those default files. There are many tutorials in the Internet explaining how create these files. You can get my files created for WD TV Live remote control here:
 
-[hardware.conf](https://github.com/project-owner/Peppy.doc/blob/master/files/hardware.conf)
-[lircd.conf](https://github.com/project-owner/Peppy.doc/blob/master/files/lircd.conf)
-[lircrc](https://github.com/project-owner/Peppy.doc/blob/master/files/lircrc)
+* [hardware.conf](https://github.com/project-owner/Peppy.doc/blob/master/files/hardware.conf)
+* [lircd.conf](https://github.com/project-owner/Peppy.doc/blob/master/files/lircd.conf)
+* [lircrc](https://github.com/project-owner/Peppy.doc/blob/master/files/lircrc)
+
+###Pylirc###
+To install Python wrapper for LIRC you should make the following steps.
+
+Install files required by pylirc:
+```
+sudo apt-get install python-dev
+sudo apt-get install liblircclient-dev
+```
+Download pylirc (pylirc2-0.1.tar.gz) from: [https://pypi.python.org/pypi/pylirc2](https://pypi.python.org/pypi/pylirc) extartct files and copy them to folder ```/home/pi/pylirc2-0.1```
+
+There is currently the problem in Pylirc which is explained [here](http://stackoverflow.com/questions/34691314/python3-4-pylirc-module-not-loaded-although-is-installed-on-my-system). To fix the problem you should either follow the steps decribed [here](https://github.com/offlinehacker-playground/pylirc2/issues/3#issuecomment-170238377) or just download the file [pylircmodule.c](https://github.com/project-owner/Peppy.doc/blob/master/files/pylircmodule.c) which I prepared using those instructions.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Software) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
