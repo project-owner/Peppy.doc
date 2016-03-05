@@ -69,7 +69,7 @@ I installed Raspbian from Adafruit web site and in my case LIRC was not included
 ```
 sudo apt-get install lirc
 ``` 
-This command will install lirc libraries and it will create folder /etc/lirc with default files in it:
+This command will install LIRC libraries and it will create folder ```/etc/lirc``` with default files in it:
 ```
 pi@raspberrypi ~ $ ls /etc/lirc
 hardware.conf  lircrc  lircd.conf
