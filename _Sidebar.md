@@ -23,7 +23,6 @@
     * [LIRC](https://github.com/project-owner/Peppy.doc/wiki/LIRC)
     * [Pylirc](https://github.com/project-owner/Peppy.doc/wiki/Pylirc)
     * [Peppy](https://github.com/project-owner/Peppy.doc/wiki/Peppy)
-    * [Configuration File](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
 * [Peppy Player UI](https://github.com/project-owner/Peppy.doc/wiki/Peppy Player UI)
     * [Splash](https://github.com/project-owner/Peppy.doc/wiki/Splash)
     * [Home Screen](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
