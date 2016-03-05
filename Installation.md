@@ -80,7 +80,7 @@ You should prepare your own files and replace the default files. There are many 
 * [lircd.conf](https://github.com/project-owner/Peppy.doc/blob/master/files/lircd.conf)
 * [lircrc](https://github.com/project-owner/Peppy.doc/blob/master/files/lircrc)
 
-To test LIRC run program 'irw' and press buttons on your remote. You should see some output on console:
+To test LIRC run the program 'irw' again and press buttons on your remote. You should see some output in the console:
 ```
 pi@raspberrypi ~ $ irw
 00000000219e10ef 00 KEY_OK WD_TVLIVE
@@ -89,7 +89,7 @@ pi@raspberrypi ~ $ irw
 ```
 
 ###Pylirc###
-Pylirc is required to access LIRC from Python programs. To install Python wrapper for LIRC you should make the following steps.
+Pylirc is LIRC Python wrapper and it's required to access LIRC from Python programs. To install Pylirc you should complete the following steps.
 
 Install files required by pylirc:
 ```
