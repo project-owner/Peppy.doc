@@ -80,8 +80,16 @@ You should prepare your own files and replace those default files. There are man
 * [lircd.conf](https://github.com/project-owner/Peppy.doc/blob/master/files/lircd.conf)
 * [lircrc](https://github.com/project-owner/Peppy.doc/blob/master/files/lircrc)
 
+To test LIRC run program 'irw' and press buttons on your remote. You should see some output on console:
+```
+pi@raspberrypi ~ $ irw
+00000000219e10ef 00 KEY_OK WD_TVLIVE
+00000000219ea05f 00 KEY_UP WD_TVLIVE
+00000000219e00ff 00 KEY_DOWN WD_TVLIVE
+```
+
 ###Pylirc###
-To install Python wrapper for LIRC you should make the following steps.
+Pylirc is required to access LIRC from Python programs. To install Python wrapper for LIRC you should make the following steps.
 
 Install files required by pylirc:
 ```
@@ -94,6 +102,12 @@ mkdir /home/pi/pylirc2-0.1
 ```
 Download pylirc (pylirc2-0.1.tar.gz) from: [https://pypi.python.org/pypi/pylirc2](https://pypi.python.org/pypi/pylirc), extract files and copy them to the newly created folder ```/home/pi/pylirc2-0.1```
 
-There is currently incompatibility between Python 3 and Pylirc. The problem was explained [here](http://stackoverflow.com/questions/34691314/python3-4-pylirc-module-not-loaded-although-is-installed-on-my-system). To fix the problem you should either follow the steps described [here](https://github.com/offlinehacker-playground/pylirc2/issues/3#issuecomment-170238377) or just download the file [pylircmodule.c](https://github.com/project-owner/Peppy.doc/blob/master/files/pylircmodule.c) which I prepared using those instructions.
+There is currently incompatibility between Python 3 and Pylirc. The problem was explained [here](http://stackoverflow.com/questions/34691314/python3-4-pylirc-module-not-loaded-although-is-installed-on-my-system). To fix the problem you should either follow the steps described [here](https://github.com/offlinehacker-playground/pylirc2/issues/3#issuecomment-170238377) or just download the file [pylircmodule.c](https://github.com/project-owner/Peppy.doc/blob/master/files/pylircmodule.c) which I prepared using those instructions. The file should be placed in folder ```/home/pi/pylirc2-0.1```. Then Pylirc should be recompiled and installed. Also one file should be renamed:
+```
+cd /home/pi/pylirc2-0.1
+sudo python setup.py install
+sudo mv /usr/local/lib/python3.4/dist-packages/pylircmodule.cpython-34m.so /usr/local/lib/python3.4/dist-packages/pylirc.cpython-34m.so
+```
+After completing all these steps you canIR remote control
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Software) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Configuration File)
