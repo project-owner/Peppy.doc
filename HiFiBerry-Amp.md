@@ -43,3 +43,4 @@ To test amplifier you can prepare and upload WAV file and play it with ```aplay`
 aplay test.wav
 ```
 
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Adafruit PiTFT) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Python)
