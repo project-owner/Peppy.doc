@@ -1,4 +1,3 @@
-###Peppy###
 Download Peppy and install it in folder ```/home/pi```. Make sure that Peppy is working:
 ```
 cd Peppy
