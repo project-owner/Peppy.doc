@@ -1,4 +1,3 @@
-###MPD/MPC###
 The following command installs MPD player in folder /usr/bin/mpd
 ```
 sudo apt-get install mpd
