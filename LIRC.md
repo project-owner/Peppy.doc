@@ -25,3 +25,8 @@ pi@raspberrypi ~ $ irw
 00000000219ea05f 00 KEY_UP WD_TVLIVE
 00000000219e00ff 00 KEY_DOWN WD_TVLIVE
 ```
+Finally you have to modify file ```/boot/config.txt```. Remove comments from line with ```dtoverlay=lirc-rpi``` and add GPIO pin number which will server as input from IR sensor. In my case it's GPIO pin #23:
+```
+dtoverlay=lirc-rpi,gpio_in_pin=23
+```
+If you don't provide pin number the Amp+ will not work because it's using GPIO pin #18. LIRC is using the same pin by default. 
