@@ -1,4 +1,3 @@
-###LIRC###
 The LIRC is required if you are going to control Peppy player using Infrared Remote Control. To check that LIRC is installed on your system run the program 'irw' which comes with LIRC (this is the program for testing IR remote):
 ```
 pi@raspberrypi ~ $ irw
