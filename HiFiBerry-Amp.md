@@ -38,7 +38,7 @@ amixer sset Master 75%
 ```
 The volume range of the audio player (Mpd) will be restricted by this setting. Its maximum (100%) will not be louder than defined by ```amixer``` (75%).
 
-To test amplifier you can prepare and upload WAV file and play it with ``aplay``` program:
+To test amplifier you can prepare and upload WAV file and play it with ```aplay``` program:
 ```
 aplay test.wav
 ```
