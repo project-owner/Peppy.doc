@@ -22,3 +22,4 @@ To disable all booting messages during startup remove properties ```fbcon=map:10
 dwc_otg.lpm_enable=0 console=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait
 ```
 
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Pylirc) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Peppy Player UI)
