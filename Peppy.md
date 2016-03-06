@@ -36,9 +36,10 @@ height = 320
 depth = 32
 ```
 
+####usage####
+This section contains properties which can switch on/off different functionality in Peppy player.
 ```
 [usage]
-use.splash = False
 use.lirc = True
 use.rotary.encoders = True
 use.mpc.player = True
