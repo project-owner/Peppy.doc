@@ -2,7 +2,7 @@ There is separate playlist for each genre and for each language. They contain di
 ```
 /home/pi/Peppy/stations/en_us/children/children.m3u
 ```
-Here is the example of content from that file:
+Here is the excerpt of content from that file:
 ```
 #0
 #Kids Public Radio. Lullaby
