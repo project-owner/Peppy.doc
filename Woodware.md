@@ -36,4 +36,4 @@ Next image shows different materials which were used to glue and finish the wood
 
 4. [**Denatured Alcohol**](http://www.amazon.com/Klean-Strip-QSL26-Denatured-Alcohol-Quart/dp/B000SL3S6Y). As shellac comes very thick from the can you have to thin it using denatured alcohol.
 
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Software Tools) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Design)
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Resolution) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Design)
