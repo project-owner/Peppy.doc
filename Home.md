@@ -38,9 +38,6 @@ To give you the idea how Peppy GUI looks like here are several screenshots of th
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-2.png|alt=ex-2]]
 </p>
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-3.png|alt=ex-3]]
-</p>
-<p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-4.png|alt=ex-4]]
 </p>
 
