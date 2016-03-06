@@ -20,7 +20,7 @@ http://kidspublicradio2.got.net:8000/pipsqueaks
 ```
 
 ###Station Index##
-The number after the comment character defines the order of the radio station in the station menu. The station logo image which is located in the same folder as playlist file should be named after this number. For example for the example playlist shown above there are two images for the station logos:
+The number after the comment character defines the order of the radio station in the station menu. The station logo image which is located in the same folder as playlist file should be named after this number. For example for the playlist shown above there are two images for the station logos:
 ```
 /home/pi/Peppy/stations/en_us/children/0.png
 /home/pi/Peppy/stations/en_us/children/1.png
@@ -28,6 +28,7 @@ The number after the comment character defines the order of the radio station in
 The image size for station logo should be 200*200 pixels.
 
 ###Station Name###
+This name will be displayed in the title bar on the Station Screen. If the name needs character set other than ASCII then the playlist file should be saved in UTF-8 encoding.
 
-
-To add new station 
+###The URL to station stream###
+The Peppy player will send this URL to audio player (e.g. Mpd) for playback.
