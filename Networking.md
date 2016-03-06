@@ -18,4 +18,4 @@ This is more convenient method as it doesn't need any network cable but less rel
 
 There is currently the bug in Peppy player. That bug prevents the usage of infrared remote control when WiFi connection is in use.
 
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Cabling) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Hardware Tools)
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Cabling) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Assembling)
