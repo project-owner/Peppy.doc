@@ -162,5 +162,4 @@ delay.3 = 2
 delay.off = 3
 ```
 
-
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Pylirc) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Peppy Player UI)
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Pylirc) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Playlists)
