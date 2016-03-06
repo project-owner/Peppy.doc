@@ -49,17 +49,19 @@ use.logging = False
 ```
 
 ####current####
+The properties in this section define which playlist will be loaded and which radio station will start playing upon system startup. This section will be updated by the Peppy player during system shutdown.
 ```
 [current]
 mode = radio
-language = ru
-playlist = retro
-station = 2
+language = en_us
+playlist = news
+station = 0
 screensaver = slideshow
-screensaver.delay = delay.off
+screensaver.delay = delay.1
 ```
 
 ####loop.interval####
+The properties from this section define loop intervals for the main and lirc event loops.
 ```
 [loop.interval]
 main.event.loop = 0.2
@@ -67,21 +69,24 @@ lirc.event.loop = 0.2
 ```
 
 ####music.server####
+This section defines the location of the audio player (e.g. Mpd) and command used to start this player. This information is required only if Peppy player is running on Windows platform. The host and port properties are required only if you defined ```use.mpd.player``` property in the ```usage``` section.
 ```
 [music.server]
-folder = C:\\Temp\\audio\\mpd-0.17.4-win32\\bin
+folder = C:\\mpd-0.17.4-win32\\bin
 command = mpd mpd.conf
 host = localhost
 port = 6600
 ```
 
 ####web.server####
+The only property necessary to configure web server is the port number. The host information will be detected by the Peppy player automatically.
 ```
 [web.server]
 http.port = 8000
 ```
 
 ####colors####
+The colors in this section define the skin for UI.
 ```
 [colors]
 color.web.bgr = 0,38,40
@@ -93,12 +98,14 @@ color.logo = 20,190,160
 ```
 
 ####font####
+The font for Peppy player is located in folder ```Peppy/font/```. It can be changed for any other font and its name should be defined here.
 ```
 [font]
 font.name = FiraSans.ttf
 ```
 
 ####previous####
+This section contains properties which define station numbers for each genre. It is updated upon system shutdown. If you switch to new genre the last played station from that genre will start playing.
 ```
 [previous]
 news = 0
@@ -106,8 +113,8 @@ culture = 0
 retro = 0
 children = 0
 classical = 0
-pop = 3
-jazz = 8
+pop = 0
+jazz = 0
 rock = 0
 contemporary = 0
 ```
