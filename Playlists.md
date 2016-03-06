@@ -32,3 +32,5 @@ This name will be displayed in the title bar on the Station Screen. If the name 
 
 ###The URL to station stream###
 The Peppy player will send this URL to audio player (e.g. Mpd) for playback when corresponding station will be selected in the Station Menu.
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Peppy) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Peppy Player UI)
