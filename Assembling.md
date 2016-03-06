@@ -40,4 +40,4 @@ The following images show the assembling process of the hardware components.
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/a-9.png|alt=a-9]]
 </p>
 
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Hardware Tools) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Software)
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Networking) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Software)
