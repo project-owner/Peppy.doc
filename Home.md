@@ -6,7 +6,7 @@
 
 Here are the key features of the Hardware component:
 * It is based on popular single-board computer Raspberry Pi 2. This is the "heart".
-* High quality audio achieved by using integrated DAC-Amplifier module HiFiBerry Amp+ and Sony speakers. This is the "voice".
+* High quality audio achieved by using integrated Amplifier module HiFiBerry Amp+ and Sony speakers. This is the "voice".
 * The Hardware have six "senses" to control its functionality:
     * Mouse
     * Keyboard
