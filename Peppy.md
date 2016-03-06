@@ -47,6 +47,8 @@ use.mpd.player = False
 use.web = True
 use.logging = False
 ```
+
+####current####
 ```
 [current]
 mode = radio
@@ -56,11 +58,15 @@ station = 2
 screensaver = slideshow
 screensaver.delay = delay.off
 ```
+
+####loop.interval####
 ```
 [loop.interval]
 main.event.loop = 0.2
 lirc.event.loop = 0.2
 ```
+
+####music.server####
 ```
 [music.server]
 folder = C:\\Temp\\audio\\mpd-0.17.4-win32\\bin
@@ -68,10 +74,14 @@ command = mpd mpd.conf
 host = localhost
 port = 6600
 ```
+
+####web.server####
 ```
 [web.server]
 http.port = 8000
 ```
+
+####colors####
 ```
 [colors]
 color.web.bgr = 0,38,40
@@ -81,10 +91,14 @@ color.bright = 160,190,210
 color.contrast = 255,190,120
 color.logo = 20,190,160
 ```
+
+####font####
 ```
 [font]
 font.name = FiraSans.ttf
 ```
+
+####previous####
 ```
 [previous]
 news = 0
@@ -97,6 +111,9 @@ jazz = 8
 rock = 0
 contemporary = 0
 ```
+
+####order sections####
+The properties in these sections define the order of menu items in different screens.
 ```
 [order.home.menu]
 radio = 1
