@@ -35,4 +35,4 @@ Each release of the Peppy player will have new set of images for slideshow. Pepp
 </p>
 The file names of the images in the slides folder are not hard coded. The program reads all images from that folder. Therefore it's possible to place there your own images. The expected image resolution is 480*320 pixels. The images in this resolution will be displayed on screen without any border. Images in different resolution will be scaled to fit the screen therefore they will have some black borders on some of the sides. The images should be in PNG or JPG formats.
 
-
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Language) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Web UI)
