@@ -26,7 +26,7 @@
     * [Pylirc](https://github.com/project-owner/Peppy.doc/wiki/Pylirc)
     * [Peppy](https://github.com/project-owner/Peppy.doc/wiki/Peppy)
 * [Peppy Player UI](https://github.com/project-owner/Peppy.doc/wiki/Peppy Player UI)
-    * [Splash](https://github.com/project-owner/Peppy.doc/wiki/Splash)
+    * [About](https://github.com/project-owner/Peppy.doc/wiki/About)
     * [Home Screen](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
     * [Station](https://github.com/project-owner/Peppy.doc/wiki/Station)
     * [Genre](https://github.com/project-owner/Peppy.doc/wiki/Genre)
