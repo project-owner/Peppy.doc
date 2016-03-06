@@ -14,3 +14,5 @@ The following pictures where taken from the Samsung smartphone running Chrome br
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/web-ui.png|alt=web-ui]]
 </p>
+
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Screensaver) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Resolution)
