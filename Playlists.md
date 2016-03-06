@@ -31,4 +31,4 @@ The image size for station logo should be 200*200 pixels.
 This name will be displayed in the title bar on the Station Screen. If the name needs character set other than ASCII then the playlist file should be saved in UTF-8 encoding.
 
 ###The URL to station stream###
-The Peppy player will send this URL to audio player (e.g. Mpd) for playback.
+The Peppy player will send this URL to audio player (e.g. Mpd) for playback when corresponding station will be selected in the Station Menu.
