@@ -5,4 +5,4 @@ The About screen consists of the application name, application logo and version 
 
 The same screen will be displayed after clicking 'About' button on the Home screen.
 
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Screens) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Peppy Player UI) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Home Screen)
