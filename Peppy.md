@@ -25,10 +25,10 @@ dwc_otg.lpm_enable=0 console=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 roo
 ```
 
 ###Configuration File###
-The Peppy player configuration file is located in the root folder ```Peppy/config.txt```. This file contains properties which can control different areas of the player functionality. Some properties in this file are written by player during the shutdown operation. Therefore any manually defined settings for these properties can be overwritten by the player.
+The Peppy player configuration file is located in the root folder ```Peppy/config.txt```. This file contains properties which can control different areas of the player functionality. Some properties in this file are written by player during the shutdown operation. Therefore any manually defined settings for these properties can be overwritten by the player. The following paragraphs will explain the meaning of the properties and their default values.
 
 ####screen.info####
-The properties in this section allow to set screen resolution and color depth. Below are the default settings.
+The properties in this section allow to set screen resolution and color depth.
 ```
 [screen.info]
 width = 480
