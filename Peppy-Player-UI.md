@@ -13,4 +13,4 @@ The possible transitions between screens can be found in the following image.
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/sf.png|alt=sf]]
 </p>
 
-[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Peppy) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Splash)
+[<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Peppy) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/About)
