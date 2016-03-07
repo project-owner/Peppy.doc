@@ -29,7 +29,7 @@ The key features of the [Woodware](https://github.com/project-owner/Peppy.doc/wi
 * Natural [finish](https://github.com/project-owner/Peppy.doc/wiki/Finishing) - the variation of [French polish](https://en.wikipedia.org/wiki/French_polish).
 
 ### Screenshots
-Here are several screenshots which give the idea how Peppy UI looks like.
+Here are several screenshots which give the idea how [Peppy UI](https://github.com/project-owner/Peppy.doc/wiki/Peppy Player UI) looks like.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-1.png|alt=ex-1]]
 </p>
