@@ -10,10 +10,10 @@ Here are the key features of the [Hardware](https://github.com/project-owner/Pep
 * The [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware) has six "senses" to control its functionality:
     * [Mouse](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#mouse)
     * [Keyboard](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#keyboard)
-    * Touch-Screen
-    * Infrared Remote Control
-    * Rotary Encoders
-    * Any computer in a local network or mobile device with Web Browser
+    * [Touchscreen](https://github.com/project-owner/Peppy.doc/wiki/Touchscreen)
+    * [Infrared Remote Control](https://github.com/project-owner/Peppy.doc/wiki/Infrared Sensor)
+    * [Rotary Encoders](https://github.com/project-owner/Peppy.doc/wiki/Rotary Encoders)
+    * Any computer in a local network or mobile device with [Web Browser](https://github.com/project-owner/Peppy.doc/wiki/Web UI)
 
 Here are the key features of the [Software](https://github.com/project-owner/Peppy.doc/wiki/Software) component:
 * This is application written in Python. This is not another Linux distribution.
