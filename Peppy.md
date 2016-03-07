@@ -17,7 +17,7 @@ After all these changes reboot the system:
 ```
 sudo reboot
 ```
-The Pappy player will start playing current radio stream automatically.
+The Peppy player will start playing current radio stream automatically.
 
 To disable all booting messages during startup remove properties ```fbcon=map:10 fbcon=font:VGA8x8``` from the end of line in file ```/boot/cmdline.txt```. The edited line should look like this one:
 ```
