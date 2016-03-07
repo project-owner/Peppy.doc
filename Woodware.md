@@ -5,7 +5,7 @@ Before the work on the case/enclosure starts the electronic hardware part should
 ### Woodworking Tools
 The following image shows the main woodworking tools which I've used while working on the wooden case for the Peppy player.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/tools.png|alt=tools]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/tools.jpg|alt=tools]]
 </p>
 
 1. [Scroll Saw](http://www.woodcraft.com/product/158383P/excalibur-21-scroll-saw-promo-package.aspx). This is the main tool which was used to shape the player body from the 1/4" boards which where glued together afterwards. Its 21" throat size allowed to handle case dimensions which I needed.
@@ -20,12 +20,12 @@ The following image shows the main woodworking tools which I've used while worki
 When I have figured out all case dimensions and finished the design I started wood selection process. The wood should be of medium hardness so that it could be easily sawed on the scroll saw without breaking too many blades. Therefore such wood as maple was excluded because it's very dense and hard to process. At the same time wood should not be too soft as it will be easy to chip it. So basswood doesn't work here either. Finally I selected [walnut](http://www.ebay.com/itm/Packages-of-Kiln-Dried-Premium-Black-Walnut-Thin-Lumber-/380809632534) as a dark wood and [cherry](http://www.ebay.com/itm/Packages-of-Kiln-Dried-Premium-Cherry-Thin-Lumber-/251467912348) as a lighter wood. It's good to have some color contrast in your design. Cherry darkens over time so the initial contrast will be diminished.
 
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/wood.png|alt=wood]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/wood.jpg|alt=wood]]
 </p>
 
 Next image shows different materials which were used to glue and finish the wooden case for Peppy player.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/materials.png|alt=materials]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/materials.jpg|alt=materials]]
 </p>
 
 1. [**Wood Glue**](http://www.amazon.com/gp/product/B0000223UR?keywords=titebond%20II&qid=1456695105&ref_=sr_1_1&sr=8-1). This glue provides literally unbreakable wood joint.
