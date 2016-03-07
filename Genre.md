@@ -18,6 +18,6 @@ Three things happen upon genre selection:
 
 1. Player switches to the corresponding playlist. 
 2. The previously saved station for the selected genre will be loaded from the configuration file.
-3. Player switches to Station screen and starts playing the station selected in the previous step.
+3. Player switches to [Station](https://github.com/project-owner/Peppy.doc/wiki/Station) screen and starts playing the station selected in the previous step.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Station) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Language)
