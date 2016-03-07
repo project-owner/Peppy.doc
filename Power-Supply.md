@@ -4,7 +4,7 @@ While choosing a Power Supply (PS) for your project you have to consider the fol
 
 Usually the recommendation for analog audio projects is to use Linear PS as it's less noisy. But for digital projects like Peppy player using Switching PS should be OK as its output stage Amp+ is Class-D amplifier which is some sort of switching device itself :)
 
-Amp+ module provides power for Raspberry Pi through GPIO connector. The DC voltage of the PS connected to Amp+ should be in range 12-18V. The blue LED in the power button needs 12V. That's why to avoid any voltage conversions we need +12V power supply.
+[Amp+ module](https://github.com/project-owner/Peppy.doc/wiki/Amplifier) provides power for [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2) through GPIO connector. The DC voltage of the PS connected to Amp+ should be in range 12-18V. The blue LED in the power button needs 12V. That's why to avoid any voltage conversions we need +12V power supply.
 
 To define the wattage necessary for your project you have to calculate maximum consumption of all components in your system. According to [this](https://www.raspberrypi.org/help/faqs/#powerReqs) recommendation to power Raspberry Pi 2 you need PS which can provide +5V and current 1.8A or 5*1.8=9W. As we use 12V PS that will be 9/12=0.75A. To produce 25W output from Amp+ with 12V PS you need 25/12=2.08A current. So the total current for main power consumers Raspberry Pi and Amp+ will be 0.75+2.08=2.83A. The consumption of remaining hardware components (touchscreen, IR sensor, mouse, keyboard) is much less and can be safely estimated as 1A in total. That gives us the required current for our PS which is about 4A.
 
