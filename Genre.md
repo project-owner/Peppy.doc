@@ -1,7 +1,7 @@
 There are nine genres in Peppy player. Each genre has its own playlist for each supported language.
 
 1. **News**. News and sport stations.
-2. **Culture**. Science and talks-show stations.
+2. **Culture**. Science and talk-show stations.
 3. **Oldies**. Retro music from 90-s, 80-s, 70-s and earlier.
 4. **Children**. The music and talk-shows for kids.
 5. **Classical**. Classical music.
