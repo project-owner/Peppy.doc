@@ -8,7 +8,7 @@ The Screensaver type can be chosen from the following items:
 2. **Logo**.
 3. **Slideshow**.
 
-The Screensaver delay is the time of inactivity (no user actions) after which starts screensaver. The delay can be one of the following:
+The Screensaver delay is the time of inactivity (no user actions) after which screensaver starts. The delay can be one of the following:
 
 1. **1 minute**.
 2. **3 minutes**.
