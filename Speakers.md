@@ -6,15 +6,15 @@ For the Peppy player I first acquired speakers and then designed and built the c
 
 The speaker which passed these filtering criteria was car speaker [Sony XS-GTF1027](http://www.amazon.com/gp/product/B004WEZM7Q). The size of these speakers is 4" which suits great for boombox project. The frequency range is 60-24,000 Hz which is also great for boombox when you don't expect very low bass from such a small case. The speaker impedance 4 Ohm and 30W power suits perfectly for Amp+ output. And finally they have pretty attractive black grills.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-1.png|alt=sp-1]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-1.jpg|alt=sp-1]]
 </p>
 The high frequencies are provided by the separate twitter sitting in the center of the speaker. Each speaker can be easily mounted on case with four screws which come with speaker.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-2.png|alt=sp-2]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-2.jpg|alt=sp-2]]
 </p>
 The speaker and grill are attached to the body by the same screws.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-3.png|alt=sp-3]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/sp-3.jpg|alt=sp-3]]
 </p>
 While connecting speakers to Amp+ remember that the signal has polarity (+ and -).
 
