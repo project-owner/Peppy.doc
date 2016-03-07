@@ -1,6 +1,6 @@
 There are two main methods to connect Raspberry Pi 2 to the network:
-* [Wired Ethernet connection](#wired)
-* [Wireless WiFi connection](#wifi)
+* [**Wired Ethernet connection**](#wired)
+* [**Wireless WiFi connection**](#wifi)
 
 ### Wired Ethernet connection <a id="wired"></a>
 In my home network this is the most reliable connection method. The Peppy player is not completely portable system as it still needs to be connected to the main power outlet. Therefore to have one more cable for the network connection doesn't hurt especially when you use [Ethernet over powerline adapters](http://www.amazon.com/gp/product/B00CUD1M66) which you can connect at any location in your house. I even wanted to embed that adapter into the Peppy player itself but decided that such system could be over-heated. Though I still keep this idea in my mind.
