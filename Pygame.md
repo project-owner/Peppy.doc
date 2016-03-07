@@ -11,6 +11,6 @@ The workaround is to create and run the script [installsdl.sh](https://github.co
 sudo chmod +x installsdl.sh
 sudo ./installsdl.sh
 ```
-After this step the [touchscreen](https://github.com/project-owner/Peppy.doc/wiki/Python) should start working properly with Pygame library.
+After this step the [touchscreen](https://github.com/project-owner/Peppy.doc/wiki/Python) should work properly with Pygame library.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Python) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Mpd & Mpc)
