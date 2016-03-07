@@ -6,6 +6,6 @@ To avoid gluing your insertion boards to the main pieces you can wrap those inse
 
 Wood glue starts hardening pretty quickly. Therefore you should work fast. Plan your gluing process in advance. Make so-called dry-fit by attaching all wood pieces and clamps together but without glue. That helps to see what is missing to complete the process. 
 
-Usually wood glue hardens in one hour but it's recommended to leave it harden for one day.
+Usually wood glue hardens in one hour but it's recommended to leave it harden for one day. After that you can start [sanding](https://github.com/project-owner/Peppy.doc/wiki/Sanding) process.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Sawing) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Sanding)
