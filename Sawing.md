@@ -6,7 +6,7 @@ The wooden case for the Peppy player consists of 7 parts: the central frame (che
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/parts.jpg|alt=parts]]
 </p>
 
-When I was sawing the 1/4" boards I tried to saw about 1-2 mm out of marking lines. That margin allowed me to compensate all drawback which can always happen during the [sawing](https://github.com/project-owner/Peppy.doc/wiki/Sawing) and [gluing](https://github.com/project-owner/Peppy.doc/wiki/Gluing) processes. That excess wood was removed during the sanding process when I sanded the pieces to the marking lines. As the case was constructed from several pieces that allowed to work separately on individual pieces. That's much easier than handling the case as one big piece. Only when all parts were adjusted to the proper sizes I glued them together.
+When I was sawing the 1/4" boards I tried to saw about 1-2 mm out of marking lines. That margin allowed me to compensate all drawback which can always happen during the sawing and [gluing](https://github.com/project-owner/Peppy.doc/wiki/Gluing) processes. That excess wood was removed during the [sanding](https://github.com/project-owner/Peppy.doc/wiki/Sanding) process when I sanded the pieces to the marking lines. As the case was constructed from several pieces that allowed to work separately on individual pieces. That's much easier than handling the case as one big piece. Only when all parts were adjusted to the proper sizes I glued them together.
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/case-1.jpg|alt=case-1]]
