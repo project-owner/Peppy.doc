@@ -8,8 +8,8 @@ Here are the key features of the [Hardware](https://github.com/project-owner/Pep
 * It is based on popular single-board computer Raspberry Pi 2.
 * High quality audio achieved by using integrated Amplifier module HiFiBerry Amp+ and Sony speakers.
 * The [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware) has six "senses" to control its functionality:
-    * Mouse
-    * Keyboard
+    * [Mouse](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#mouse)
+    * [Keyboard](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#keyboard)
     * Touch-Screen
     * Infrared Remote Control
     * Rotary Encoders
