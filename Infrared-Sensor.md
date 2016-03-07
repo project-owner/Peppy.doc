@@ -8,13 +8,11 @@ The sensor was mounted above the [touchscreen](https://github.com/project-owner/
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/ir-2.jpg|alt=ir-2]]
 </p>
 
-Any infrared remote could be used to control Peppy player. I had a spare remote from WD TV Live player so I configured the Peppy player to use that remote. The separate chapter will explain how to configure a remote control for Raspberry Pi 2.
+Any infrared remote could be used to control Peppy player. I had a spare remote from WD TV Live player so I configured the Peppy player to use that remote. The separate [chapter](https://github.com/project-owner/Peppy.doc/wiki/LIRC) will explain how to configure a remote control for Raspberry Pi 2.
 
 The front panel of the Peppy player is made of the black opaque acrylic glass which blocks infrared signal. That's why the small hole was drilled in the front panel and round window created from a transparent acrylic glass was inserted into that hole and glued to the panel.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/ir-3.jpg|alt=ir-3]]
 </p>
-
-As infrared sensor needs support from the system Linux driver (LIRC) some system configuration changes are required. The corresponding software chapter will cover that in detail.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Power Supply) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Rotary Encoders)
