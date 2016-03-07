@@ -15,7 +15,7 @@ ctl.!default {
 }
 ```
 
-Either remove or comment out the line ```snd_bcm2835``` in file ```/etc/modules```. That will disable on-board Raspberry Pi audio system. Reboot the system:
+Either remove or comment out the line ```snd_bcm2835``` in file ```/etc/modules```. That will disable on-board [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2) audio system. Reboot the system:
 ```
 sudo reboot
 ```
@@ -24,7 +24,7 @@ Verify that AMP+ was configured properly by running the following program:
 ```
 aplay -l
 ```
-My output from that program looks like this:
+The output from that program should look like this:
 ```
 **** List of PLAYBACK Hardware Devices ****
 card 0: sndrpihifiberry [snd_rpi_hifiberry_amp], device 0: HifiBerry AMP HiFi tas5713-hifi-0 []
@@ -36,7 +36,7 @@ By default the volume level will be set to 100% which is very loud level. Use ``
 ```
 amixer sset Master 75%
 ```
-The volume range of the audio player (Mpd) will be restricted by this setting. Its maximum (100%) will not be louder than defined by ```amixer``` (75%).
+The volume range of the audio player (e.g. Mpd) will be restricted by this setting. Its maximum (100%) will not be louder than defined by ```amixer``` (75%).
 
 To test amplifier you can prepare and upload WAV file and play it with ```aplay``` program:
 ```
