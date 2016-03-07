@@ -26,7 +26,7 @@ Here are the key features of the [Software](https://github.com/project-owner/Pep
 The key features of the [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware) component include:
 * Original custom [design](https://github.com/project-owner/Peppy.doc/wiki/Design).
 * Made of [wood (Cherry and Walnut)](https://github.com/project-owner/Peppy.doc/wiki/Woodware#materials).
-* Natural [finish](https://github.com/project-owner/Peppy.doc/wiki/Finishing) - the variation of [French Polish](https://en.wikipedia.org/wiki/French_polish).
+* Natural [finish](https://github.com/project-owner/Peppy.doc/wiki/Finishing) - the variation of [French polish](https://en.wikipedia.org/wiki/French_polish).
 * Solid wood adds the feeling of the solid build due to its weight.
 
 ### Screenshots
