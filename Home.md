@@ -27,7 +27,6 @@ The key features of the [Woodware](https://github.com/project-owner/Peppy.doc/wi
 * Original custom [design](https://github.com/project-owner/Peppy.doc/wiki/Design).
 * Made of solid [wood (Cherry and Walnut)](https://github.com/project-owner/Peppy.doc/wiki/Woodware#materials).
 * Natural [finish](https://github.com/project-owner/Peppy.doc/wiki/Finishing) - the variation of [French polish](https://en.wikipedia.org/wiki/French_polish).
-* Solid wood adds the feeling of the solid build due to its weight.
 
 ### Screenshots
 Here are several screenshots which give the idea how Peppy GUI looks like.
