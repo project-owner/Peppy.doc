@@ -10,17 +10,17 @@ To define the wattage necessary for your project you have to calculate maximum c
 
 The closest PS which I found on the market is [this Mean Well PS](http://www.ebay.com/itm/RPS-60-12-Meanwell-AC-DC-Power-Supply-Single-OUT-12V-5-5A-60W-12V-5A-2-PER-/311421865601) which provides +12V and 5.5A. That is more than we need but over-powering the system doesn't hurt as it will draw from PS only power which it requires not more. More harmful is under-powering your system.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/ps.png|alt=ps]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/ps.jpg|alt=ps]]
 </p>
 
 [The illuminated power push-button](http://www.ebay.com/itm/Durable-12V-19mm-Black-Case-ON-OFF-Blue-Angel-Eye-LED-Push-Button-Metal-Switch-/400878791396) adds nice touch to the system.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pb.png|alt=pb]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pb.jpg|alt=pb]]
 </p>
 
 You have to connect to the button main AC power 110V and 12V from PS for the blue LED. That can be done either directly or through some splitter like on the image below.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pb-2.png|alt=pb]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pb-2.jpg|alt=pb]]
 </p>
 
 The following diagram shows all necessary connections required to power Peppy player. Raspberry Pi connects to power through Amp+ module (GPIO connector).
