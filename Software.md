@@ -17,6 +17,6 @@ Here are the main Software Tools which were used for Peppy player development:
 
 4. **[WinSCP](https://winscp.net/eng/index.php)**. This program was necessary to copy files from Windows machine to [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2).
 
-5. **[Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)**. The [Raspbian][Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspbian) OS image was placed to SD card using this program.
+5. **[Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)**. The [Raspbian](https://github.com/project-owner/Peppy.doc/wiki/Raspbian) OS image was placed to SD card using this program.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Assembling) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Raspbian)
