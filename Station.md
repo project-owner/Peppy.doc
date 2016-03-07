@@ -4,7 +4,7 @@ The Station Screen has two modes:
 2. **Page Mode**. In this mode the Station menu displayed on screen.
 
 ###Station Mode###
-Peppy player will display this screen upon startup (if Splash Screen was disabled in the configuration file).
+Peppy player will display this screen upon startup.
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/stations.png|alt=stations]]
