@@ -1,4 +1,4 @@
-The default Peppy player resolution is 480*320 pixels. This is the resolution of the touchscreen used for the project. It's defined in the [configuration file](https://github.com/project-owner/Peppy.doc/wiki/Peppy#configuration-file) ```config.txt```:
+The default Peppy player resolution is 480*320 pixels. This is the resolution of the [touchscreen](https://github.com/project-owner/Peppy.doc/wiki/Touchscreen) used for the project. It's defined in the [configuration file](https://github.com/project-owner/Peppy.doc/wiki/Peppy#configuration-file) ```config.txt```:
 ```
 [screen.info]
 width = 480
