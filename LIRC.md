@@ -12,7 +12,7 @@ This command will install LIRC libraries and it will create folder ```/etc/lirc`
 pi@raspberrypi ~ $ ls /etc/lirc
 hardware.conf  lircrc  lircd.conf
 ```
-You should prepare your own files and replace the default files. There are many tutorials in the Internet explaining how to create these files. You can use my files created for WD TV Live remote for reference:
+You should prepare your own files and replace the default files. There are many [tutorials](http://alexba.in/blog/2013/01/06/setting-up-lirc-on-the-raspberrypi/) in the Internet explaining how to create these files. You can use my files created for WD TV Live remote for reference:
 
 * [hardware.conf](https://github.com/project-owner/Peppy.doc/blob/master/files/hardware.conf)
 * [lircd.conf](https://github.com/project-owner/Peppy.doc/blob/master/files/lircd.conf)
