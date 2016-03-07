@@ -13,6 +13,6 @@ The RE used for Peppy player have push-button functionality. One push-button ser
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/re-2.jpg|alt=re-2]]
 </p>
 
-The usage of REs don't need any changes in the system configuration files. Peppy software handles all RE functionality. The details will be discussed in the software chapter.
+The usage of REs don't need any changes in the system configuration files. Peppy software handles all RE functionality.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Infrared Sensor) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices)
