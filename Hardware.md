@@ -1,7 +1,7 @@
 The following image shows all hardware ingredients which I used for the Peppy project. The directions for using of each ingredient will be discussed in detail in separate chapters. Please follow the navigation links to read about particular component. I'll also provide the links to web sites where you can buy these components. Please don't consider it as advertisements as I don't work for those companies. This is done to save you search time. Also be aware that availability of the component today doesn't mean that it will be available tomorrow. Though I'll try to keep these links up-to-date. You can definitely use another appropriate components but this document will describe installation and configuration of the particular hardware components shown below.
 
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/hardware.png|alt=Hardware]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/hardware.jpg|alt=Hardware]]
 </p>
 
 1. [Power Supply](https://github.com/project-owner/Peppy.doc/wiki/Power Supply). This is very important component in any project. Under-powering your system can cause many intermittent problems. Therefore I recommend to use good power supply which can provide more energy than your system requires. Over-powering doesn't hurt as your system will take only energy which it needs.
@@ -26,7 +26,7 @@ The following images shows the tools which were used while making Peppy player h
 
 ### Mechanical Tools
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/h-tools.png|alt=h-tools]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/h-tools.jpg|alt=h-tools]]
 </p>
 
 1. [Pliers](http://www.amazon.com/gp/product/B007HGNRQ4). This tools is handy either when you need much stronger fingers for example to tighten nuts or whenever you need much longer fingers - when you have to reach a place not reachable by your fingers.
@@ -47,7 +47,7 @@ The following images shows the tools which were used while making Peppy player h
 
 ### Electrical tools.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/e-tools.png|alt=e-tools]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/e-tools.jpg|alt=e-tools]]
 </p>
 
 There are two main electrical tools which I needed to assemble the hardware part of the Peppy player:
