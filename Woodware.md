@@ -1,4 +1,4 @@
-The case/enclosure is probably the only way to distinguish a commercial product from a DIY project. In the Peppy player I've tried to eliminate this difference as much as possible.
+A case/enclosure is probably the only way to distinguish a commercial product from a DIY project. In the Peppy player I've tried to eliminate this difference as much as possible.
 
 Before the work on the case/enclosure starts the electronic hardware part should be finished. Working on both parts at the same is more difficult and troublesome. The most important part is your [hardware component](https://github.com/project-owner/Peppy.doc/wiki/Hardware) dimensions. Until you figured out the exact dimensions of your hardware part you cannot start working on enclosure. 
 
