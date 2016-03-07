@@ -2,7 +2,7 @@ Peppy player has embedded Web Server which can be activated by setting correspon
 ```
 http://192.168.1.75:8000
 ```
-The default port number specified in the configuration file is 8000. It can be changed to any other port.
+The default port number specified in the [configuration file](https://github.com/project-owner/Peppy.doc/wiki/Peppy#configuration-file) is 8000. It can be changed to any other port.
 
 Web UI which appears in Web Browser is absolutely the same as UI in the touchscreen. The only current limitation is that only one Web UI can be active at the time. All UI actions which you are making on the touchscreen will be automatically repeated in Web UI and vice verse. For example if you are moving the volume control knob on the touchscreen it will be also moving in the Web UI.
 
