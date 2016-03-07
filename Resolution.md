@@ -20,7 +20,7 @@ Depending on the screen resolution defined in the configuration file Peppy playe
 And here is example of the screen with resolution 800*480:
 
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/scr-4.png|alt=scr-4]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/scr-4.jpg|alt=scr-4]]
 </p>
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Web UI) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Woodware)
