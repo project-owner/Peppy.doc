@@ -1,5 +1,5 @@
-For the Peppy player I first acquired speakers and then designed and built the case according to the dimensions of those speakers. Here are the criteria which I used for speaker selection:
-* One of the main criteria for choosing speakers was their small size because this is boombox project. 
+Here is the criteria which I used for speaker selection:
+* It should have small size because this is a boombox project. 
 * Because of the same size restrictions the speakers should be full range. Using separate speakers for low, middle and high frequencies would require too big case. Also Amp+ has only two outputs for standard stereo speakers.
 * Another criteria was speaker wattage. Amp+ can output 25W therefore the speakers should be in the same power range. 
 * And finally as I was going to use black acrylic glass for front and back panels the speakers should be also in dark colors and preferably with black grill which could protect speakers' membranes from dust and accidental damages.
