@@ -1,9 +1,9 @@
 The Language screen provides menu for switching to new language. Currently Peppy player supports four languages and has radio station playlists for each language/country.
 
-1. English/USA
-2. German
-3. French
-4. Russian
+1. **English/USA**
+2. **German**
+3. **French**
+4. **Russian**
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/language.png|alt=language]]
