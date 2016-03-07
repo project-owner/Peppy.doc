@@ -1,6 +1,6 @@
 The main hardware components used to control Peppy player are: touchscreen, rotary encoders and remote control. The details related to this devices were discussed already in the corresponding chapters. The other devices which can be used to control player include:
 * [Mouse](#Mouse)
-* [Keyboard](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#Keyboard)
+* [Keyboard](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#keyboard)
 
 ### Mouse
 USB mouse can be connected to any spare USB connector on the Raspberry Pi 2. As this is standard device it will be automatically recognized and configured by the system without any manual intervention. The mouse connected to the Peppy player is useful only during debugging/troubleshooting if because of some reasons there is no network access to the player. In all other cases it is useless as there are more convenient methods to control player - touchscreen, remote control and rotary encoders. 
