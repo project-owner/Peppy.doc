@@ -1,4 +1,4 @@
-There is separate playlist for each genre and for each language. The playlists contain the direct links to free radio station streams. For example here is the path to English/USA playlist with radio stations for kids:
+There is separate playlist for each genre and for each language. The playlists contain the direct links to free radio station streams. Here is the example path to English/USA playlist with radio stations for kids:
 ```
 /home/pi/Peppy/stations/en_us/children/children.m3u
 ```
