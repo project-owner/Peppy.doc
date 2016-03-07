@@ -3,7 +3,7 @@ Download Peppy and install it in folder ```/home/pi```. Make sure that Peppy is 
 cd Peppy
 sudo python peppy.py
 ```
-When Peppy player starts in invokes Mpc client which in turn launches Mpd player. It should start playing the current radio station defined in Peppy's [configuration file](#configuration file) ```config.txt```.
+When Peppy player starts in invokes Mpc client which in turn launches Mpd player. It should start playing the current radio station defined in Peppy's [configuration file](https://github.com/project-owner/Peppy.doc/wiki/Peppy#configuration-file) ```config.txt```.
 
 To start Peppy player automatically during the system startup make changes in file ```/etc/rc.local```:
 ```
