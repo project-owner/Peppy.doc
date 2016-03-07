@@ -2,7 +2,7 @@
 
 [The Rotary Encoders](http://www.ebay.com/itm/New-10pcs-12mm-Rotary-Encoder-Push-Button-Switch-Keyswitch-Electronic-Components-/331262931119) which were used for Peppy player can be connected directly to the Raspberry Pi's GPIO pins. Each RE needs four GPIO pins. One of these pins is Ground and the rest are signal pins. There is no need to connect positive power voltage to the RE as GPIO pins in Raspberry Pi can be programmatically configured to use pull-up resistors which connect the pin to the positive voltage through resistor.
 
-The following diagram shows which GPIO pins were used for this connection. The GPIO pins which are not in use by another components and which are close to each other were selected. It's easier to make connection cable when the  pins/wires are grouped together. The details of creating connection cable will be discussed in the cabling section.
+The following diagram shows which GPIO pins were used for this connection. The GPIO pins which are not in use by another components and which are close to each other were selected. It's easier to make [connection cable](https://github.com/project-owner/Peppy.doc/wiki/Cabling) when the  pins/wires are grouped together.
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/re-1.png|alt=re-1]]
