@@ -12,7 +12,7 @@ The Web UI was written in a browser neutral way and should be running in all mod
 </p>
 The following pictures where taken from the Samsung smartphone running Chrome browser and from iPhone running Safari browser.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/web-ui.png|alt=web-ui]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/web-ui.jpg|alt=web-ui]]
 </p>
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Screensaver) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Resolution)
