@@ -8,13 +8,13 @@ The following image shows the main woodworking tools which I've used while worki
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/woodware/tools.jpg|alt=tools]]
 </p>
 
-1. [Scroll Saw](http://www.woodcraft.com/product/158383P/excalibur-21-scroll-saw-promo-package.aspx). This is the main tool which was used to shape the player body from the 1/4" boards which where glued together afterwards. Its 21" throat size allowed to handle case dimensions which I needed.
+1. [**Scroll Saw**](http://www.woodcraft.com/product/158383P/excalibur-21-scroll-saw-promo-package.aspx). This is the main tool which was used to shape the player body from the 1/4" boards which where glued together afterwards. Its 21" throat size allowed to handle case dimensions which I needed.
 
-2. Drill. This tool is necessary to drill holes for joint pins in the wooden case. It's better to use a drill press for this task as it provides more stability but this kind of drill works fine as well.
+2. **Drill**. This tool is necessary to drill holes for joint pins in the wooden case. It's better to use a drill press for this task as it provides more stability but this kind of drill works fine as well.
 
-3. [Oscillating Spindle Sander](http://www.amazon.com/gp/product/B00LPFIPPQ). No matter how skillful you are in scroll-sawing it's very difficult to make very precise cuts. There are always drawbacks after sawing and gluing. The sander helps to eliminate those drawbacks. Just remember that this is very noisy and dusty tool. It's better to connect some dust collecting system to the sander (I used vacuum cleaner). Otherwise the dust will be scattered all over your workplace.
+3. [**Oscillating Spindle Sander**](http://www.amazon.com/gp/product/B00LPFIPPQ). No matter how skillful you are in scroll-sawing it's very difficult to make very precise cuts. There are always drawbacks after sawing and gluing. The sander helps to eliminate those drawbacks. Just remember that this is very noisy and dusty tool. It's better to connect some dust collecting system to the sander (I used vacuum cleaner). Otherwise the dust will be scattered all over your workplace.
 
-4. [C-Clamps](http://www.amazon.com/gp/product/B000NY6QO2). I have put just six 6" C-clamps on the image in reality I have used bigger clamps as well. They are required to tighten your pieces at the gluing stage.
+4. [**C-Clamps**](http://www.amazon.com/gp/product/B000NY6QO2). I have put just six 6" C-clamps on the image in reality I have used bigger clamps as well. They are required to tighten your pieces at the gluing stage.
 
 ### Materials
 When I have figured out all case dimensions and finished the design I started wood selection process. The wood should be of medium hardness so that it could be easily sawed on the scroll saw without breaking too many blades. Therefore such wood as maple was excluded because it's very dense and hard to process. At the same time wood should not be too soft as it will be easy to chip it. So basswood doesn't work here either. Finally I selected [walnut](http://www.ebay.com/itm/Packages-of-Kiln-Dried-Premium-Black-Walnut-Thin-Lumber-/380809632534) as a dark wood and [cherry](http://www.ebay.com/itm/Packages-of-Kiln-Dried-Premium-Cherry-Thin-Lumber-/251467912348) as a lighter wood. It's good to have some color contrast in your design. Cherry darkens over time so the initial contrast will be diminished.
