@@ -1,6 +1,6 @@
 From all hardware components only Amp+ was attached to the Raspberry Pi 2 directly to its GPIO connector. All other components such as the touchscreen, infrared sensor and rotary encoders were connected by means of ribbon cable. As the base for this cable I used 40-pin ribbon cable with female connectors attached to it already. The following image demonstrates all steps which were done to prepare the cable. 
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/cabling.png|alt=cabling]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/cabling.jpg|alt=cabling]]
 </p>
 
 1. First you need to measure and cut the correct length which you need. You can use either regular scissors or hobby knife to cut the cable. Be careful as there is no 'Undo' operation for this step ;)
