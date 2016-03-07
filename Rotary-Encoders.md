@@ -10,7 +10,7 @@ The following diagram shows which GPIO pins were used for this connection. The G
 
 The RE used for Peppy player have push-button functionality. One push-button serves for mute and the other for menu item selection functionality. Each push-button has two contacts - one for Ground and the other for Signal. Therefore to simplify the connection cable just one Ground signal from GPIO can be used and two Ground pins can be connected to each other on the RE itself. You can see that connection (copper wire) between Ground pins in the following image. [Two black aluminum knobs](http://www.ebay.com/itm/2PCS-25-18mm-Generic-Black-Solid-Aluminum-Knob-W-Black-Ring-FR-Potentiometer-Amp-/321039102439) attached to the REs provide nice inertia while adjusting the volume level or tuning radio station because of their heavy weight.
 <p align="center">
-[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/re-2.png|alt=re-2]]
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/re-2.jpg|alt=re-2]]
 </p>
 
 The usage of REs don't need any changes in the system configuration files. Peppy software handles all RE functionality. The details will be discussed in the software chapter.
