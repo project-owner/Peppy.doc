@@ -24,9 +24,9 @@ Here are the key features of the [Software](https://github.com/project-owner/Pep
 * By default Peppy has playlists containing free radio stations for English, French, German and Russian languages. Users can add their own stations to the playlists.
 
 The key features of the [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware) component include:
-* Original custom design.
-* Made of wood (Cherry and Walnut).
-* Natural finish - the variation of French Polish.
+* Original custom [design](https://github.com/project-owner/Peppy.doc/wiki/Design).
+* Made of [wood (Cherry and Walnut)](https://github.com/project-owner/Peppy.doc/wiki/Woodware#materials).
+* Natural [finish](https://github.com/project-owner/Peppy.doc/wiki/Finishing) - the variation of French Polish.
 * Solid wood adds the feeling of the solid build due to its weight.
 
 ### Screenshots
