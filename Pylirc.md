@@ -9,7 +9,7 @@ Create folder
 ```
 mkdir /home/pi/pylirc2-0.1
 ```
-Download pylirc (pylirc2-0.1.tar.gz) from: [https://pypi.python.org/pypi/pylirc2](https://pypi.python.org/pypi/pylirc), extract files and copy them to the newly created folder ```/home/pi/pylirc2-0.1```
+Download pylirc (pylirc2-0.1.tar.gz) from: [https://pypi.python.org/pypi/pylirc2](https://pypi.python.org/pypi/pylirc), extract files to the newly created folder ```/home/pi/pylirc2-0.1```
 
 There is currently incompatibility between Python 3 and Pylirc. The problem was explained [here](http://stackoverflow.com/questions/34691314/python3-4-pylirc-module-not-loaded-although-is-installed-on-my-system). To fix the problem you should either follow the steps described [here](https://github.com/offlinehacker-playground/pylirc2/issues/3#issuecomment-170238377) or just download the file [pylircmodule.c](https://github.com/project-owner/Peppy.doc/blob/master/files/pylircmodule.c) which I prepared using those instructions. The file should be placed in folder ```/home/pi/pylirc2-0.1```. Then Pylirc should be recompiled and installed. Also one file should be renamed:
 ```
