@@ -1,4 +1,4 @@
-Peppy player has embedded Web Server which can be activated by setting corresponding flag in the [configuration file](https://github.com/project-owner/Peppy.doc/wiki/Peppy#Configuration File). The Web Server allows to control the player using Web Browser from any device in your home network. The IP Address of the Peppy player should be specified as URL in Web Browser. Here is the example URL (you should provide you own IP Address):
+Peppy player has embedded Web Server which can be activated by setting corresponding flag in the [configuration file](https://github.com/project-owner/Peppy.doc/wiki/Peppy#Configuration-File). The Web Server allows to control the player using Web Browser from any device in your home network. The IP Address of the Peppy player should be specified as URL in Web Browser. Here is the example URL (you should provide you own IP Address):
 ```
 http://192.168.1.75:8000
 ```
