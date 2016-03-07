@@ -10,6 +10,6 @@ The oscillating spindle sander works great on the curved surfaces but is not so 
 
 It's recommended to make the size of the wooden components by 1-2 mm larger than the desired size. That excess wood on the edges allows to correct all drawbacks which inevitably occur after [sawing](https://github.com/project-owner/Peppy.doc/wiki/Sawing) and [gluing](https://github.com/project-owner/Peppy.doc/wiki/Gluing) processes. The spindle sander removes the wood very quickly especially when low grit paper is in use so be careful. 
 
-The sanding can be accomplished with three grit sizes. It can be started with 80-120 grit paper for initial rough sanding continued with 180-220 grit paper and finished with 320 grit paper. You can find in the store 400 grit paper and higher. Practically 320 grit paper is enough to get pretty smooth surface.
+The sanding can be accomplished with sanding paper of three grit sizes. It can be started with 80-120 grit paper for initial rough sanding continued with 180-220 grit paper and finished with 320 grit paper. You can find in the store 400 grit paper and higher. Practically 320 grit paper is enough to get pretty smooth surface.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Gluing) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Finishing)
