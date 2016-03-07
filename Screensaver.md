@@ -4,15 +4,15 @@ The Screensaver screen has two menus to change such screensaver settings as Scre
 </p>
 The Screensaver type can be chosen from the following items:
 
-1. Clock.
-2. Logo.
-3. Slideshow.
+1. **Clock**.
+2. **Logo**.
+3. **Slideshow**.
 
 The Screensaver delay is the time of inactivity (no user actions) after which starts screensaver. The delay can be one of the following:
 
-1. 1 minute.
-2. 3 minutes.
-3. Off.
+1. **1 minute**.
+2. **3 minutes**.
+3. **Off**.
 
 ###Clock Screensaver###
 The Clock screensaver displays the current time using format HH:MM. The clock changes its position every 4 seconds. New time will be displayed when it changes position.
