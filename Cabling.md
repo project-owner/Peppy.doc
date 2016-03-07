@@ -13,6 +13,6 @@ From all hardware components only Amp+ was attached to the Raspberry Pi 2 direct
 
 5. From the cable end which protrudes from the 26-pin connector make the cable for infrared sensor. The sensor needs only three wires but as all required wires are not adjacent to each other 4 wires cable can be formed where one wire will be unused.
 
-6. Solder infrared sensor and rotary encoders to the corresponding wires of the cable.
+6. Solder [infrared sensor](https://github.com/project-owner/Peppy.doc/wiki/Infrared Sensor) and [rotary encoders](https://github.com/project-owner/Peppy.doc/wiki/Rotary Encoders) to the corresponding wires of the cable.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Other Control devices) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Networking)
