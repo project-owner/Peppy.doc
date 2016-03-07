@@ -12,6 +12,6 @@ Any design starts from sketches and finishes with ready-to-use schemes and diagr
 
 * **Make it transportable**. I didn't plan to move the player from one place to another very often. This is not completely portable system. It still needs main power from the wall outlet. Therefore I didn't plan any handle on the case. Though it should be possible to easily lift the case and move it to another place preferably by one man ;) To achieve this goal the case should not be too heavy and it should have some holes to grab it.
 
-As a result of all these considerations and sketching I prepared vector images in the Adobe Illustrator. Those images depicted all wooden pieces as well as acrylic glass front and back panels in real scale. Then I printed them out on pages of letter size paper. Those pages were glued together to make the real size drawings. The drawings were transferred from paper to the wood boards by means of carbon paper.
+As a result of all these considerations and [sketching](https://github.com/project-owner/Peppy.doc/wiki/Sketches) I prepared vector images in the Adobe Illustrator. Those images depicted all wooden pieces as well as acrylic glass front and back panels in real scale. Then I printed them out on pages of letter size paper. Those pages were glued together to make the real size drawings. The drawings were transferred from paper to the wood boards by means of carbon paper.
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Woodware) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Sawing)
