@@ -29,6 +29,6 @@ Finally you have to modify file ```/boot/config.txt```. Remove comments from lin
 ```
 dtoverlay=lirc-rpi,gpio_in_pin=23
 ```
-If you don't provide pin number the Amp+ will not work because it's using GPIO pin #18. LIRC is using the same pin by default. 
+If you don't provide pin number the [Amp+](https://github.com/project-owner/Peppy.doc/wiki/Amplifier) will not work because it's using GPIO pin #18. LIRC is using the same pin by default. 
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Mpd & Mpc) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Pylirc)
