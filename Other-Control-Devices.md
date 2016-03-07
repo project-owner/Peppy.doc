@@ -1,5 +1,5 @@
 The main hardware components used to control Peppy player are: touchscreen, rotary encoders and remote control. The details related to this devices were discussed already in the corresponding chapters. The other devices which can be used to control player include:
-* [Mouse](#Mouse)
+* [Mouse](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#mouse)
 * [Keyboard](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#keyboard)
 
 ### Mouse
