@@ -4,10 +4,10 @@
 ### What is Peppy?
 **Peppy** is the name of the audio player which contains three ingredients: [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware), [Software](https://github.com/project-owner/Peppy.doc/wiki/Software) and [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware). Why Peppy? This is the first word which came to my mind when I tried to find out any word which would contain three **P** characters for **P**ython **P**ygame **P**layer. That reflects the fact that the software component was written in Python language using Pygame library.
 
-Here are the key features of the Hardware component:
-* It is based on popular single-board computer Raspberry Pi 2. This is the "heart".
-* High quality audio achieved by using integrated Amplifier module HiFiBerry Amp+ and Sony speakers. This is the "voice".
-* The Hardware have six "senses" to control its functionality:
+Here are the key features of the [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware) component:
+* It is based on popular single-board computer Raspberry Pi 2.
+* High quality audio achieved by using integrated Amplifier module HiFiBerry Amp+ and Sony speakers.
+* The [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware) has six "senses" to control its functionality:
     * Mouse
     * Keyboard
     * Touch-Screen
@@ -15,22 +15,22 @@ Here are the key features of the Hardware component:
     * Rotary Encoders
     * Any computer in a local network or mobile device with Web Browser
 
-Here are the key features of the Software component which represents the "brain":
-* This is application written in Python. The cross-platform nature of Python allows to run Peppy on different platforms. It works fine on Windows and Linux.
-* Peppy provides Graphical User Interface for audio players running in a headless mode. Currently Peppy supports only 'Mpd' audio player but it was designed in such a way that integrating with new player (e.g. Mplayer) should be pretty simple task.
-* Embedded Web Server allows to control audio playback from any Web Browser. It was tested with Firefox, IE, Chrome and Safari. The GUI was written in such a way that it has the same look and feel on Touch-Screen and in Web Browser.
-* The default screen resolution is 480*320. This is the resolution of the TFT used for this project. Though UI is dynamic and can scale to any screen resolution.
-* Currently Peppy has only Internet Radio functionality. In the future releases support for playing audio files and streams will be implemented.
+Here are the key features of the [Software](https://github.com/project-owner/Peppy.doc/wiki/Software) component:
+* This is application written in Python. This is not another Linux distribution.
+* Peppy provides Graphical User Interface for audio players running in a headless mode. Currently Peppy supports only 'Mpd' audio player.
+* Embedded Web Server allows to control audio playback from any Web Browser.
+* The default touchscreen resolution is 480*320. This is the resolution of the TFT used for this project. Though UI is dynamic and can scale to any screen resolution.
+* Currently Peppy has only Internet Radio functionality. In the future releases support for playing audio files and streams will be implemented as well.
 * By default Peppy has playlists containing free radio stations for English, French, German and Russian languages. Users can add their own stations to the playlists.
 
-And finally the key features of the Woodware component:
+The key features of the [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware) component include:
 * Original custom design.
 * Made of wood (Cherry and Walnut).
 * Natural finish - the variation of French Polish.
 * Solid wood adds the feeling of the solid build due to its weight.
 
 ### Screenshots
-To give you the idea how Peppy GUI looks like here are several screenshots of the Peppy player.
+Here are several screenshots which give the idea how Peppy GUI looks like.
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/ex-1.png|alt=ex-1]]
 </p>
