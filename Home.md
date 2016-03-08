@@ -5,8 +5,8 @@
 **Peppy** is the audio player which contains three ingredients: [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware), [Software](https://github.com/project-owner/Peppy.doc/wiki/Software) and [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware). Why Peppy? This is the first word which came to my mind when I tried to find out any word which would contain three **P** characters for **P**ython **P**ygame **P**layer. That reflects the fact that the software component was written in Python language using Pygame library.
 
 Here are the key features of the [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware) component:
-* It is based on popular single-board computer Raspberry Pi 2.
-* High quality audio achieved by using integrated Amplifier module HiFiBerry Amp+ and Sony speakers.
+* It is based on popular single-board computer [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2).
+* High quality audio achieved by using integrated Amplifier module [HiFiBerry Amp+](https://github.com/project-owner/Peppy.doc/wiki/Amplifier) and [Sony speakers](https://github.com/project-owner/Peppy.doc/wiki/Speakers).
 * The [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware) has six "senses" to control its functionality:
     * [Mouse](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#mouse)
     * [Keyboard](https://github.com/project-owner/Peppy.doc/wiki/Other Control Devices#keyboard)
