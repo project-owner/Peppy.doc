@@ -2,7 +2,7 @@ While choosing a Power Supply (PS) for your project you have to consider the fol
 * Type of PS - Linear or Switching.
 * Maximum power which PS can produce. This factor also defines the dimensions or PS
 
-Usually the recommendation for analog audio projects is to use Linear PS as it's less noisy. But for the boombox projects like Peppy player using Switching PS should be OK as there is limited space in the body.
+Usually the recommendation for analog audio projects is to use Linear PS as it's less noisy. But for the boombox projects like Peppy player using Switching PS should be OK as there is limited space in the wooden case.
 
 [Amp+ module](https://github.com/project-owner/Peppy.doc/wiki/Amplifier) provides power for [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2) through GPIO connector. The DC voltage of the PS connected to Amp+ should be in range 12-18V. The blue LED in the power button needs 12V. That's why to avoid any voltage conversions I needed +12V power supply.
 
