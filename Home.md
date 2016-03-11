@@ -18,10 +18,10 @@ Here are the key features of the [Hardware](https://github.com/project-owner/Pep
 Here are the key features of the [Software](https://github.com/project-owner/Peppy.doc/wiki/Software) component:
 * This is application written in Python. This is not another Linux distribution.
 * Peppy provides Graphical User Interface for audio players running in a headless mode. Currently Peppy supports 'Mpd' audio player.
-* Embedded Web Server allows to control audio playback from any Web Browser.
+* Embedded Web Server allows to control audio playback from any [Web Browser](https://github.com/project-owner/Peppy.doc/wiki/Wen UI).
 * The default touchscreen resolution is 480*320. This is the resolution of the TFT used for this project. Though UI is dynamic and can scale to any screen [resolution](https://github.com/project-owner/Peppy.doc/wiki/Resolution).
 * Currently Peppy has only Internet Radio functionality. In the future releases support for playing audio files and streams will be implemented as well.
-* By default Peppy has playlists containing free radio stations for English, French, German and Russian languages. Users can add their own stations to the playlists.
+* By default Peppy has [playlists](https://github.com/project-owner/Peppy.doc/wiki/Playlists) containing free radio stations for English, French, German and Russian languages. Users can add their own stations to the playlists.
 
 The key features of the [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware) component include:
 * Original custom [design](https://github.com/project-owner/Peppy.doc/wiki/Design).
