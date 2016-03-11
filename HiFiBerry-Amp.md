@@ -1,4 +1,4 @@
-[This web page](https://www.hifiberry.com/guides/configuring-linux-3-18-x/) explains all steps required to install and configure the software for HiFiBerry Amp+ amplifier. I've got the driver for Amp+ with Raspbian Jessie which I downloaded from the Adafruit web site. There are still some steps required to complete the amplifier configuration.
+[The HiFiBerry web site](https://www.hifiberry.com/guides/configuring-linux-3-18-x/) explains all steps required to install and configure the software for HiFiBerry Amp+ amplifier. I've got the driver for Amp+ with Raspbian Jessie which I downloaded from the Adafruit web site. There are still some steps required to complete the amplifier configuration.
 
 Add the following line to file ```/boot/config.txt```:
 ```
