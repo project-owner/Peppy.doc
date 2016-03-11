@@ -4,6 +4,7 @@ The default Peppy player resolution is 480*320 pixels. This is the resolution of
 width = 480
 height = 320
 depth = 32
+frame.rate = 30
 ```
 The Peppy player software can support any resolution. There is no limit neither on the low end nor on the high end. The Pygame library doesn't support vector graphics. Therefore it's impossible to use images in SVG format for UI icons. Although the Pygame can scale bitmap images (e.g. in JPG and PNG formats) up and down. The result of scaling images down is acceptable but the images scaled up look blurry. To handle this drawback the Peppy player provides bitmap icons for different screen resolutions. They are placed in three folders:
 
