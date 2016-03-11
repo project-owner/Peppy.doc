@@ -1,5 +1,5 @@
 Pygame also comes with [Raspbian](https://github.com/project-owner/Peppy.doc/wiki/Raspbian). To make sure that it's really there start [Python](https://github.com/project-owner/Peppy.doc/wiki/Python) interpreter and type the following line at prompt:
-```python
+```
 import pygame
 ```
 You shouldn't see any exceptions. If you'll see import exception that means there is no Pygame and it should be downloaded and installed from their [web site](http://www.pygame.org/download.shtml).
