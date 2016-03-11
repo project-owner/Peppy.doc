@@ -12,7 +12,7 @@ Amp+ is ready-to-use right out of the box. You just have to install optional spa
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pi-spacers.jpg|alt=pi-spacers]]
 </p>
 
-Amp+ has 40-pin connector with pins which protrude through the board and allow to connect any other devices which need GPIO signals. Peppy player leverages that connector on Amp+ to connect another external hardware components: [IR Sensor](https://github.com/project-owner/Peppy.doc/wiki/Infrared Sensor), [Rotary Encoders](https://github.com/project-owner/Peppy.doc/wiki/Rotary Encoders) and [Touchscreen](https://github.com/project-owner/Peppy.doc/wiki/Touchscreen). Just remember that pins used by Amp+ should not be used by any other component.
+Amp+ has 40-pin connector with pins which protrude through the board and allow to connect any other devices which need GPIO signals. Peppy player leverages that connector on Amp+ to connect another external hardware components: [IR Sensor](https://github.com/project-owner/Peppy.doc/wiki/Infrared Sensor), [Rotary Encoders](https://github.com/project-owner/Peppy.doc/wiki/Rotary Encoders) and [Touchscreen](https://github.com/project-owner/Peppy.doc/wiki/Touchscreen). Just remember that [pins used by Amp+](https://www.hifiberry.com/guides/gpio-usage-of-the-hifiberry-products/) should not be used by any other component.
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/hardware/pi-amp.jpg|alt=pi-amp]]
