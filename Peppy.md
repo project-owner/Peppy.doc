@@ -34,6 +34,7 @@ The properties in this section allow to set screen resolution and color depth.
 width = 480
 height = 320
 depth = 32
+frame.rate = 30
 ```
 
 ####usage####
@@ -58,14 +59,6 @@ playlist = news
 station = 0
 screensaver = slideshow
 screensaver.delay = delay.1
-```
-
-####loop.interval####
-The properties from this section define loop intervals for the main and lirc event loops.
-```
-[loop.interval]
-main.event.loop = 0.2
-lirc.event.loop = 0.2
 ```
 
 ####music.server####
