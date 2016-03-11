@@ -9,7 +9,7 @@ The details about installation and configuration of each software component will
 ###Software Tools###
 Here are the main Software Tools which were used for Peppy player development:
 
-1. **[Eclipse](https://www.eclipse.org/)**. This is IDE for Java Developers.
+1. **[Eclipse](https://www.eclipse.org/)**. This is popular IDE for Software Development.
 
 2. **[PyDev](http://www.pydev.org/)**. This is Python IDE for Eclipse.
 
