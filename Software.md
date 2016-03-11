@@ -11,7 +11,7 @@ Here are the main Software Tools which were used for Peppy player development:
 
 1. **[Eclipse](https://www.eclipse.org/)**. This is popular IDE for Software Development.
 
-2. **[PyDev](http://www.pydev.org/)**. This is Python IDE for Eclipse.
+2. **[PyDev](http://www.pydev.org/)**. This is Python plugin for Eclipse.
 
 3. **[PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)**. This software was used to connect to the [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2) through SSH.
 
