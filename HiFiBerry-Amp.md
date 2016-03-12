@@ -44,7 +44,7 @@ The volume range of the audio player (e.g. Mpd) will be restricted by this setti
 
 To test amplifier and speakers run ```speaker-test``` program:
 ```
-speaker-test -Dhw -c 2 -t sine -f 200
+speaker-test -Dhw -c2 -tsine -f200
 ```
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Adafruit PiTFT) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Python)
