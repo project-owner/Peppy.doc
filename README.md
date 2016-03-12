@@ -1,2 +1,2 @@
 # Peppy.doc
-Peppy documentation
+Peppy player documentation
