@@ -34,17 +34,17 @@ card 0: sndrpihifiberry [snd_rpi_hifiberry_amp], device 0: HifiBerry AMP HiFi ta
 
 By default the volume level will be set to 100% which is very loud level. Use ```amixer``` to reduce the volume level:
 ```
-amixer sset Master 75%
+amixer sset Master 70%
 ```
-The volume range of the audio player (e.g. Mpd) will be restricted by this setting. Its maximum (100%) will not be louder than defined by ```amixer``` (75%).
+The volume range of the audio player (e.g. Mpd) will be restricted by this setting. Its maximum (100%) will not be louder than defined by ```amixer``` (70%).
 
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/software/mpd.png|alt=mpd]]
 </p>
 
-To test amplifier you can prepare and upload WAV file and play it with ```aplay``` program:
+To test amplifier and speakers run ```speaker-test``` program:
 ```
-aplay test.wav
+speaker-test -Dhw -c 2 -t sine -f 200
 ```
 
 [<<Previous](https://github.com/project-owner/Peppy.doc/wiki/Adafruit PiTFT) | [Next>>](https://github.com/project-owner/Peppy.doc/wiki/Python)
