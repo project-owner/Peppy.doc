@@ -1,4 +1,12 @@
-Download Peppy and install it in folder ```/home/pi```. Make sure that Peppy is working:
+Download Peppy from ```github```:
+```
+cd /home/pi
+mkdir Peppy
+cd Peppy
+git init
+git pull https://github.com/project-owner/Peppy.git
+```
+Make sure that Peppy player is working:
 ```
 cd Peppy
 sudo python peppy.py
