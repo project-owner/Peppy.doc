@@ -25,10 +25,10 @@ dwc_otg.lpm_enable=0 console=ttyAMA0,115200 console=tty1 root=/dev/mmcblk0p2 roo
 ```
 
 ###Configuration File###
-The Peppy player configuration file is located in the root folder ```Peppy/config.txt```. This file contains properties which can control different areas of the player functionality. Some properties in this file are written by player during the shutdown operation. Therefore any manually defined settings for these properties can be overwritten by the player. The following paragraphs will explain the meaning of the properties and their default values.
+The Peppy player configuration file is located in the root folder ```Peppy/config.txt```. This file contains properties which can control different areas of the player functionality. Some properties in this file are updated by the player during the shutdown operation. Therefore any manual settings for these properties can be overwritten by the player. The following paragraphs will explain the meaning of the properties and their default values.
 
 ####screen.info####
-The properties in this section allow to set screen resolution and color depth.
+The properties in this section allow to define screen information.
 ```
 [screen.info]
 width = 480
@@ -36,6 +36,7 @@ height = 320
 depth = 32
 frame.rate = 30
 ```
+The property ```frame.rate``` defines the screen frame rate. 30 frames per second is the default value. This property affects the animation speed of the scrolling title.
 
 ####usage####
 This section contains properties which can switch on/off different functionality in Peppy player.
@@ -48,6 +49,7 @@ use.mpd.player = False
 use.web = True
 use.logging = False
 ```
+The property ```use.mpc.player``` activates ```mpc``` client. All ```mpd``` commands in this case will be issued through ```mpc```. The property ```use.mpd.player``` activates the code which sends ```mpd``` commands directly to the TCP/IP socket of the ```mpd``` server. Only one of these properties should be True at the given time either ```use.mpc.player``` or ```use.mpd.player```.
 
 ####current####
 The properties in this section define which playlist will be loaded and which radio station will start playing upon system startup. This section will be updated by the Peppy player during system shutdown.
@@ -72,7 +74,7 @@ port = 6600
 ```
 
 ####web.server####
-The only property necessary to configure web server is the port number. The host information will be detected by the Peppy player automatically.
+The only property necessary to configure web server is the port number. The host IP address will be detected by the Peppy player automatically.
 ```
 [web.server]
 http.port = 8000
