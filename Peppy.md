@@ -81,7 +81,7 @@ http.port = 8000
 ```
 
 ####colors####
-The colors in this section define the skin for UI.
+The colors in this section define the color scheme of the whole UI.
 ```
 [colors]
 color.web.bgr = 0,38,40
@@ -93,7 +93,7 @@ color.logo = 20,190,160
 ```
 
 ####font####
-The font for Peppy player is located in folder ```Peppy/font/```. It can be changed for any other font and its name should be defined here.
+The font for Peppy player is located in folder ```Peppy/font/```. It can be changed for any other font and its name should be defined here. This allows to switch between fonts placed in that folder.
 ```
 [font]
 font.name = FiraSans.ttf
