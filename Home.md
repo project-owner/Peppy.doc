@@ -1,8 +1,11 @@
+### What is Peppy?
+**Peppy** is the audio player which contains three components: [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware), [Software](https://github.com/project-owner/Peppy.doc/wiki/Software) and [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware). 
+
 <p align="center">
 [[https://github.com/project-owner/Peppy.doc/blob/master/images/peppy.png|alt=peppy]]
 </p>
-### What is Peppy?
-**Peppy** is the audio player which contains three ingredients: [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware), [Software](https://github.com/project-owner/Peppy.doc/wiki/Software) and [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware). Why Peppy? This is the first word which came to my mind when I tried to find out any word which would contain three **P** characters for **P**ython **P**ygame **P**layer. That reflects the fact that the software component was written in Python language using Pygame library.
+
+Why Peppy? This is the first word which came to my mind when I tried to find out any word which would contain three **P** characters for **P**ython **P**ygame **P**layer. That reflects the fact that the software component was written in Python language using Pygame library.
 
 Here are the key features of the [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware) component:
 * It is based on popular single-board computer [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2).
