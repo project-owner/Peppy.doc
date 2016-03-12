@@ -38,6 +38,10 @@ amixer sset Master 75%
 ```
 The volume range of the audio player (e.g. Mpd) will be restricted by this setting. Its maximum (100%) will not be louder than defined by ```amixer``` (75%).
 
+<p align="center">
+[[https://github.com/project-owner/Peppy.doc/blob/master/images/software/mpd.png|alt=mpd]]
+</p>
+
 To test amplifier you can prepare and upload WAV file and play it with ```aplay``` program:
 ```
 aplay test.wav
