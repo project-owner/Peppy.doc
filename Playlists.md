@@ -25,7 +25,7 @@ The number after the comment character defines the order of the radio station in
 /home/pi/Peppy/stations/en_us/children/0.png
 /home/pi/Peppy/stations/en_us/children/1.png
 ```
-The image size for station logo should be 200*200 pixels.
+The station logo image can be of any size. The images for the default stations have resolution 200*200 pixels.
 
 ###Station Name###
 This name will be displayed in the title bar on the Station Screen. If the name needs character set other than ASCII then the playlist file should be saved in UTF-8 encoding.
