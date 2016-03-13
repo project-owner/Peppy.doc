@@ -1,4 +1,4 @@
-### What is Peppy?
+### Introduction
 **Peppy** is the audio player which contains three components: [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware), [Software](https://github.com/project-owner/Peppy.doc/wiki/Software) and [Woodware](https://github.com/project-owner/Peppy.doc/wiki/Woodware). 
 
 <p align="center">
