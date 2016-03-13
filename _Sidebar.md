@@ -1,6 +1,6 @@
 # Contents
 * [Home](https://github.com/project-owner/Peppy.doc/wiki/Home)
-    * [What is Peppy?](https://github.com/project-owner/Peppy.doc/wiki/Home#what)
+    * [Introduction](https://github.com/project-owner/Peppy.doc/wiki/Home#introduction)
     * [Screenshots](https://github.com/project-owner/Peppy.doc/wiki/Home#screenshots)
 * [Hardware](https://github.com/project-owner/Peppy.doc/wiki/Hardware)
     * [Raspberry Pi 2](https://github.com/project-owner/Peppy.doc/wiki/Raspberry Pi 2)
