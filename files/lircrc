@@ -160,3 +160,15 @@ button=KEY_9
 prog=radio
 config=9
 end
+
+begin
+button=KEY_SEARCH
+prog=radio
+config=root
+end
+
+begin
+button=KEY_EJECTCLOSECD
+prog=radio
+config=parent
+end
