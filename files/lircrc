@@ -172,3 +172,9 @@ button=KEY_EJECTCLOSECD
 prog=radio
 config=parent
 end
+
+begin
+button=KEY_AUDIO
+prog=radio
+config=audio
+end
