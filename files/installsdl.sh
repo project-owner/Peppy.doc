@@ -19,5 +19,4 @@ Pin-Priority: 900
 
 #install
 apt-get update
-apt-get -y --force-yes install libsdl1.2debian/wheezy
-
+apt-get -y --allow-downgrades install libsdl1.2debian/wheezy
