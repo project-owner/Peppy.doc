@@ -1,0 +1,35 @@
+pcm.!default {
+  type plug
+  slave.pcm "softvol_and_peppyalsa"
+}
+ctl.!default {
+  type hw
+  card 0
+}
+pcm.peppyalsa {
+  type meter
+  slave.pcm "hw:0,0"
+  scopes.0 peppyalsa
+}
+pcm.softvol_and_peppyalsa {
+  type softvol
+  slave.pcm "peppyalsa"
+  control {
+    name "PCM"
+    card 0
+  }
+}
+pcm_scope.peppyalsa {
+  type peppyalsa
+  decay_ms 400
+  meter "/home/pi/myfifo"
+  meter_max 100
+  meter_show 0
+  spectrum "/home/pi/myfifosa"
+  spectrum_max 100
+  spectrum_size 30
+}
+pcm_scope_type.peppyalsa {
+  lib /usr/local/lib/libpeppyalsa.so
+}
+pcm.dsp0 peppyalsa
