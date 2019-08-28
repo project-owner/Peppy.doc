@@ -18,6 +18,9 @@ pcm.mypeppy {
   slave.pcm "plughw:0,0"
   scopes.0 peppyalsa
 }
+ctl.equal {
+  type equal;
+}
 pcm_scope.peppyalsa {
   type peppyalsa
   decay_ms 400
