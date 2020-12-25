@@ -4,11 +4,11 @@ pcm.!default {
 }
 ctl.!default {
   type hw
-  card 0
+  card 1
 }
 pcm.peppyalsa {
   type meter
-  slave.pcm "hw:0,0"
+  slave.pcm "hw:1,0"
   scopes.0 peppyalsa
 }
 pcm.softvol_and_peppyalsa {
@@ -16,7 +16,7 @@ pcm.softvol_and_peppyalsa {
   slave.pcm "peppyalsa"
   control {
     name "PCM"
-    card 0
+    card 1
   }
 }
 pcm_scope.peppyalsa {
