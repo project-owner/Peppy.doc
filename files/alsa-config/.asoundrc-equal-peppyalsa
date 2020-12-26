@@ -3,7 +3,7 @@ pcm.!default {
   slave.pcm myequal;
 }
 ctl.!default {
-  type hw card 1
+  type hw card 0
 }
 pcm.myequal {
   type equal;
@@ -18,7 +18,7 @@ pcm.reformat {
 }
 pcm.mypeppy {
   type meter
-  slave.pcm "plughw:1,0"
+  slave.pcm "plughw:0,0"
   scopes.0 peppyalsa
 }
 ctl.equal {
