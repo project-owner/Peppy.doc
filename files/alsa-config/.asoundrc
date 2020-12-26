@@ -3,14 +3,14 @@ pcm.!default {
   slave.pcm plugequal;
 }
 ctl.!default {
-  type hw card 1
+  type hw card 0
 }
 ctl.equal {
   type equal;
 }
 pcm.plugequal {
   type equal;
-  slave.pcm "plughw:1,0";
+  slave.pcm "plughw:0,0";
 }
 pcm.equal {
   type plug;
