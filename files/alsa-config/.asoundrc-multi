@@ -20,7 +20,7 @@ pcm.!default {
 }
 pcm.myequal {
   type equal;
-  slave.pcm "plughw:1,0"
+  slave.pcm "plughw:0,0"
 }
 pcm.reformat {
   type lfloat
