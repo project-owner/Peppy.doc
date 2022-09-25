@@ -1,0 +1,16 @@
+[Unit]
+Description=Peppy
+After=network.target
+
+[Service]
+ExecStart=openvt -s -w -- python3 peppy.py
+WorkingDirectory=/home/pi/Peppy
+StandardOutput=inherit
+StandardError=inherit
+Restart=on-failure
+
+User=pi
+Group=pi
+
+[Install]
+WantedBy=multi-user.target
