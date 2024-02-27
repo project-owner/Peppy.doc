@@ -4,7 +4,7 @@ DefaultDependencies=no
 After=local-fs.target
 
 [Service]
-ExecStart=/usr/bin/fbi -d /dev/fb1 --noverbose -a /home/pi/Peppy/splash.png
+ExecStart=/usr/bin/fbi -d /dev/fb1 --noverbose -a /home/pi/Peppy/splash/splash-480.png
 StandardInput=tty
 StandardOutput=tty
 
